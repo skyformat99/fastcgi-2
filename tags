@@ -1,0 +1,1377 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+1384	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1384"><\/A>$/;"	a
+1388	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1388"><\/A>$/;"	a
+1390	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="ch4tcl.htm#4835">applications in Tcl 19<\/A> <A NAME="1390"><\/A>$/;"	a
+1392	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1392"><\/A>$/;"	a
+1394	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch1intro.htm#9483">environment variables 6<\/A> <A NAME="1394"><\/A>$/;"	a
+1396	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1396"><\/A>$/;"	a
+1399	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1399"><\/A>$/;"	a
+1401	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1401"><\/A>$/;"	a
+1404	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1404"><\/A>$/;"	a
+1405	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1405"><\/A>$/;"	a
+1407	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch1intro.htm#9483">differences from CGI 6<\/A> <A NAME="1407"><\/A>$/;"	a
+1409	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1409"><\/A>$/;"	a
+1410	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1410"><\/A>$/;"	a
+1412	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch2c.htm#4182">responder application in C 13<\/A> <A NAME="1412"><\/A>$/;"	a
+1414	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch3perl.htm#5002">responder application in perl 18<\/A> <A NAME="1414"><\/A>$/;"	a
+1416	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1416"><\/A>$/;"	a
+1418	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1418"><\/A>$/;"	a
+1420	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1420"><\/A>$/;"	a
+1421	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1421"><\/A>$/;"	a
+1423	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch4tcl.htm#4835">19<\/A> <A NAME="1423"><\/A>$/;"	a
+1425	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch2c.htm#917">applications in C 11<\/A> <A NAME="1425"><\/A>$/;"	a
+1427	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch3perl.htm#917">applications in Perl 17<\/A> <A NAME="1427"><\/A>$/;"	a
+1429	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1429"><\/A>$/;"	a
+1431	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95732">FCGI_DATA_LAST_MOD 23<\/A> <A NAME="1431"><\/A>$/;"	a
+1433	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95731">FCGI_DATA_LENGTH 23<\/A> <A NAME="1433"><\/A>$/;"	a
+1435	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="ch1intro.htm#9488">FCGI_DATA_LENGTH (in Filter applications) 6<\/A> <A NAME="1435"><\/A>$/;"	a
+1438	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="ch1intro.htm#9490">FCGI_ROLE 6,<\/A> <A HREF="apaman.htm#95661">22<\/A> <A NAME="1438"><\/A>$/;"	a
+1440	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95846">FCGI_SetExitStatus 24<\/A> <A NAME="1440"><\/A>$/;"	a
+1442	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95309">FCGI_StartFilterData 22<\/A> <A NAME="1442"><\/A>$/;"	a
+1444	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1444"><\/A>$/;"	a
+1446	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch2c.htm#4629">location of 15<\/A> <A NAME="1446"><\/A>$/;"	a
+1448	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1448"><\/A>$/;"	a
+1450	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95663">FCGI_ToFcgiStream 22<\/A> <A NAME="1450"><\/A>$/;"	a
+1452	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95663">FCGI_ToFILE 22<\/A> <A NAME="1452"><\/A>$/;"	a
+1454	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="ch2c.htm#4199">fcgiapp library 11<\/A> <A NAME="1454"><\/A>$/;"	a
+1456	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="ch1intro.htm#9486">FILE_LAST_MOD (in Filter applications) 6<\/A> <A NAME="1456"><\/A>$/;"	a
+1457	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1457"><\/A>$/;"	a
+1459	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="apaman.htm#95732">last modification time 23<\/A> <A NAME="1459"><\/A>$/;"	a
+1461	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1461"><\/A>$/;"	a
+1463	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1463"><\/A>$/;"	a
+1465	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1465"><\/A>$/;"	a
+1468	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1468"><\/A>$/;"	a
+1470	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1470"><\/A>$/;"	a
+1475	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1475"><\/A>$/;"	a
+1477	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A HREF="apaman.htm#95882">manpages 21<\/A> <A NAME="1477"><\/A>$/;"	a
+1479	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1479"><\/A>$/;"	a
+1483	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1483"><\/A>$/;"	a
+1484	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1484"><\/A>$/;"	a
+1486	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1486"><\/A>$/;"	a
+1488	doc/fastcgi-prog-guide/ap_guida.htm	/^      <A NAME="1488"><\/A>$/;"	a
+1491	doc/fastcgi-prog-guide/ap_guida.htm	/^            <A NAME="1491"><\/A>$/;"	a
+1493	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A NAME="1493"><\/A>$/;"	a
+1495	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch2c.htm#4202">in C 12<\/A> <A NAME="1495"><\/A>$/;"	a
+1497	doc/fastcgi-prog-guide/ap_guida.htm	/^                  <A HREF="ch3perl.htm#4243">in Perl 17<\/A> <A NAME="1497"><\/A>$/;"	a
+249	doc/fastcgi-prog-guide/cover.htm	/^       <A NAME="249"><\/A>$/;"	a
+256	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="256"><\/A>$/;"	a
+260	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="260"><\/A> Open Market may revise this publication from time to time without notice. Some states or$/;"	a
+261	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="261"><\/A>$/;"	a
+265	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="265"><\/A> Copyright &copy; 1996 Open Market, Inc.$/;"	a
+266	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="266"><\/A>$/;"	a
+267	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="267"><\/A> All rights reserved.$/;"	a
+268	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="268"><\/A>$/;"	a
+269	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="269"><\/A> <EM>Alpha\/OSF<\/EM> is a trademark of Digital Equipment Corporation.$/;"	a
+270	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="270"><\/A>$/;"	a
+271	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="271"><\/A> Any other trademarks and product names used herein may be the trademarks of their$/;"	a
+278	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="278"><\/A> <EM>Digital UNIX<\/EM> is a trademark of Digital Equipment Corporation.<BR>$/;"	a
+307	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="307"><\/A> <EM>Purify<\/EM> is a trademark of Pure Software, Inc.<BR>$/;"	a
+308	doc/fastcgi-prog-guide/cover.htm	/^         <A NAME="308"><\/A> <EM>Great Circle<\/EM> is a trademark of Geodesic Systems, Inc.<BR>$/;"	a
+3601	doc/fastcgi-prog-guide/apaman.htm	/^       <A NAME="3601"><\/A>$/;"	a
+3659	doc/fastcgi-prog-guide/ch2c.htm	/^       <A NAME="3659"><\/A>$/;"	a
+3659	doc/fastcgi-prog-guide/ch3perl.htm	/^       <A NAME="3659"><\/A>$/;"	a
+3659	doc/fastcgi-prog-guide/ch4tcl.htm	/^       <A NAME="3659"><\/A>$/;"	a
+4178	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4178"><\/A>$/;"	a
+4182	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4182"><\/A>$/;"	a
+4199	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4199"><\/A>$/;"	a
+4200	doc/fastcgi-prog-guide/ch2c.htm	/^            <A NAME="4200"><\/A>$/;"	a
+4201	doc/fastcgi-prog-guide/ch2c.htm	/^            Initialization section, which is executed only once. <A NAME="4201"><\/A>$/;"	a
+4202	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4202"><\/A>$/;"	a
+4203	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4203">while (FCGI_Accept() &gt;= 0) {$/;"	a
+4204	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4204"># body of response loop$/;"	a
+4205	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4205">}$/;"	a
+4206	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4206"><\/A>$/;"	a
+4210	doc/fastcgi-prog-guide/ch3perl.htm	/^<A NAME="4210">use FCGI;$/;"	a
+4212	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="4212"><\/A>$/;"	a
+4221	doc/fastcgi-prog-guide/ch4tcl.htm	/^         <A NAME="4221"><\/A> In many cases, you can convert a Tcl script from CGI to FastCGI by adding a few lines of$/;"	a
+4223	doc/fastcgi-prog-guide/ch4tcl.htm	/^      <A NAME="4223"><\/A>$/;"	a
+4226	doc/fastcgi-prog-guide/ch4tcl.htm	/^         <A NAME="4226"><\/A> Then, you have to divide FastCGI scripts into the following two sections:$/;"	a
+4227	doc/fastcgi-prog-guide/ch4tcl.htm	/^            <A NAME="4227"><\/A>$/;"	a
+4228	doc/fastcgi-prog-guide/ch4tcl.htm	/^            Initialization section, which is executed only once. <A NAME="4228"><\/A>$/;"	a
+4229	doc/fastcgi-prog-guide/ch4tcl.htm	/^      <A NAME="4229"><\/A>$/;"	a
+4230	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4230"><\/A> If you are converting a CGI application into a FastCGI application, in many cases you will$/;"	a
+4233	doc/fastcgi-prog-guide/ch4tcl.htm	/^      <A NAME="4233"><\/A>$/;"	a
+4234	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="4234"><\/A>$/;"	a
+4235	doc/fastcgi-prog-guide/ch3perl.htm	/^         <A NAME="4235"><\/A> Next, you must tell Perl to load the FastCGI extension. To do so, place the following line$/;"	a
+4237	doc/fastcgi-prog-guide/ch2c.htm	/^            <CODE>fcgi_stdio.h<\/CODE> <A NAME="4237"><\/A>$/;"	a
+4240	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4240"><\/A>$/;"	a
+4242	doc/fastcgi-prog-guide/ch3perl.htm	/^            <A NAME="4242"><\/A>$/;"	a
+4243	doc/fastcgi-prog-guide/ch3perl.htm	/^            Initialization section, which is executed only once. <A NAME="4243"><\/A>$/;"	a
+4248	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="4248"><\/A>$/;"	a
+4255	doc/fastcgi-prog-guide/ch3perl.htm	/^<A NAME="4255">while (FCGI::accept &gt;= 0) {$/;"	a
+4256	doc/fastcgi-prog-guide/ch3perl.htm	/^<A NAME="4256"># body of response loop$/;"	a
+4257	doc/fastcgi-prog-guide/ch3perl.htm	/^<A NAME="4257">}$/;"	a
+4258	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="4258"><\/A>$/;"	a
+4263	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4263">Here is a simple example of a responder FastCGI application written in C:<\/A><BR>$/;"	a
+4295	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="4295"><\/A>$/;"	a
+4315	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4315"><\/A> FastCGI applications can be much more efficient at this sort of problem, since they can$/;"	a
+4343	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4343"><\/A> Here is the code for the prime number example:$/;"	a
+4343	doc/fastcgi-prog-guide/ch4tcl.htm	/^      <A NAME="4343"><\/A>$/;"	a
+4344	doc/fastcgi-prog-guide/ch4tcl.htm	/^<A NAME="4344"><\/A>$/;"	a
+4367	doc/fastcgi-prog-guide/ch4tcl.htm	/^<A NAME="4367">}$/;"	a
+4369	doc/fastcgi-prog-guide/ch3perl.htm	/^         <A NAME="4369"><\/A> FastCGI is ideal for applications written in Perl, because it provides a huge performance$/;"	a
+4588	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="4588"><\/A>$/;"	a
+4589	doc/fastcgi-prog-guide/ch3perl.htm	/^<A NAME="4589"><\/A>$/;"	a
+4629	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4629"><\/A> The C preprocessor needs to know the location of the <CODE>fcgi_stdio.h<\/CODE> header$/;"	a
+4630	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4630"><\/A>$/;"	a
+4642	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4642"><EM>$toolkit<\/EM>\/include\/fcgi_stdio.h$/;"	a
+4645	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4645"><\/A>$/;"	a
+4647	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4647"><EM>$toolkit<\/EM>\/libfcgi\/libfcgi.a $/;"	a
+4648	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4648"><\/A>$/;"	a
+4649	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4649"><EM>$toolkit<\/EM>\/examples\/Makefile$/;"	a
+4652	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="4652"><\/A>$/;"	a
+4653	doc/fastcgi-prog-guide/ch2c.htm	/^<A NAME="4653">$ .\/configure<BR>$/;"	a
+4760	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4760"><\/A> The linker needs to know the location of the <CODE>libfcgi.a<\/CODE> library file, which is$/;"	a
+4773	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4773"><\/A> We provide a sample application <CODE>Makefile<\/CODE> at the following pathname:$/;"	a
+4785	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4785"><\/A> When converting to FastCGI, you can either use a tool such as Purify from Pure Software to$/;"	a
+4835	doc/fastcgi-prog-guide/ch4tcl.htm	/^      <A NAME="4835"><\/A>$/;"	a
+4880	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4880"><\/A>$/;"	a
+4882	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4882"><\/A>$/;"	a
+4884	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#8396">Long-lived Applications 1<\/A> <A NAME="4884"><\/A>$/;"	a
+4886	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#8445">Separating Application and Server 2<\/A> <A NAME="4886"><\/A>$/;"	a
+4888	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4888"><\/A>$/;"	a
+4890	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4890"><\/A>$/;"	a
+4892	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#9469">Code Structure 5<\/A> <A NAME="4892"><\/A>$/;"	a
+4894	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#9480">Initial Environment Variables 5<\/A> <A NAME="4894"><\/A>$/;"	a
+4896	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#9785">Per-Request Environment Variables 6<\/A> <A NAME="4896"><\/A>$/;"	a
+4898	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#9048">Building FastCGI Applications in C 6<\/A> <A NAME="4898"><\/A>$/;"	a
+4900	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#9570">Building FastCGI Applications in Perl 7<\/A> <A NAME="4900"><\/A>$/;"	a
+4902	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4902"><\/A>$/;"	a
+4904	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4904"><\/A>$/;"	a
+4906	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="ch1intro.htm#7874">The fcgi_stdio Library: I\/O Compatibility 9<\/A> <A NAME="4906"><\/A>$/;"	a
+4910	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4910"><\/A>$/;"	a
+4912	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch2c.htm#5371">The I\/O Libraries 11<\/A> <A NAME="4912"><\/A>$/;"	a
+4914	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch2c.htm#5847">Code Structure 12<\/A> <A NAME="4914"><\/A>$/;"	a
+4916	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch2c.htm#5373">Example 1: TinyFastCGI 12<\/A> <A NAME="4916"><\/A>$/;"	a
+4918	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch2c.htm#4182">Example 2: Prime Number Generator 13<\/A> <A NAME="4918"><\/A>$/;"	a
+4920	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch2c.htm#5151">Building 15<\/A> <A NAME="4920"><\/A>$/;"	a
+4923	doc/fastcgi-prog-guide/ch4tcl.htm	/^<A NAME="4923">while {[FCGI_Accept] &gt;= 0 } {$/;"	a
+4924	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4924"><\/A>$/;"	a
+4925	doc/fastcgi-prog-guide/ch4tcl.htm	/^<A NAME="4925"># body of response loop$/;"	a
+4926	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch3perl.htm#4183">Getting Started 17<\/A> <A NAME="4926"><\/A>$/;"	a
+4930	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4930"><\/A>$/;"	a
+4932	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A HREF="ch4tcl.htm#4222">Getting Started 19<\/A> <A NAME="4932"><\/A>$/;"	a
+4936	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4936"><\/A>$/;"	a
+4938	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4938"><\/A>$/;"	a
+4940	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95861">Name 21<\/A> <A NAME="4940"><\/A>$/;"	a
+4942	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95652">Synopsis 21<\/A> <A NAME="4942"><\/A>$/;"	a
+4943	doc/fastcgi-prog-guide/ch4tcl.htm	/^         <A NAME="4943"><\/A> The FastCGI-savvy binaries are extensions of standard Tcl, and are intended to replace$/;"	a
+4944	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95656">Description 21<\/A> <A NAME="4944"><\/A>$/;"	a
+4946	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4946"><\/A>$/;"	a
+4948	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4948"><\/A>$/;"	a
+4950	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95310">Name 22<\/A> <A NAME="4950"><\/A>$/;"	a
+4952	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95312">Synopsis 22<\/A> <A NAME="4952"><\/A>$/;"	a
+4954	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95315">Description 23<\/A> <A NAME="4954"><\/A>$/;"	a
+4956	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95733">Return Values 23<\/A> <A NAME="4956"><\/A>$/;"	a
+4958	doc/fastcgi-prog-guide/ap_guide.htm	/^            <A NAME="4958"><\/A>$/;"	a
+4960	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A NAME="4960"><\/A>$/;"	a
+4962	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95793">Name 24<\/A> <A NAME="4962"><\/A>$/;"	a
+4964	doc/fastcgi-prog-guide/ap_guide.htm	/^                  <A HREF="apaman.htm#95786">Synopsis 24<\/A> <A NAME="4964"><\/A>$/;"	a
+4972	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="4972"><\/A>$/;"	a
+5008	doc/fastcgi-prog-guide/ch3perl.htm	/^         <A NAME="5008"><\/A> The FastCGI-savvy binaries are extensions of standard Perl, and are intended to replace$/;"	a
+5217	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="5217"><\/A> A CGI application would have no efficient way of solving this problem. For example, if the$/;"	a
+5349	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="5349"><\/A>$/;"	a
+5384	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="5384"><\/A>$/;"	a
+5386	doc/fastcgi-prog-guide/ch2c.htm	/^            <A NAME="5386"><\/A>$/;"	a
+5399	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="5399"><\/A>$/;"	a
+5761	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="5761"><\/A> Long-lived applications have two important advantages over short-lived applications:$/;"	a
+5811	doc/fastcgi-prog-guide/ch2c.htm	/^            <A NAME="5811"><\/A>$/;"	a
+5817	doc/fastcgi-prog-guide/ch2c.htm	/^            parsing query strings, the same I\/O routines, and so on. <A NAME="5817"><\/A>$/;"	a
+5828	doc/fastcgi-prog-guide/ch2c.htm	/^            Simplicity: there are only 3 new API calls to learn <A NAME="5828"><\/A>$/;"	a
+5852	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="5852"><\/A> If the application was invoked as a CGI program, the first call to Accept returns 0 and$/;"	a
+5877	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="5877">fprintf(stdout, &quot;&lt;H2&gt;Aerobic Juggling&lt;\/H2&gt;\/n&quot;);$/;"	a
+5888	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="5888"><\/A> <CODE>FCGI_fprintf<\/CODE>$/;"	a
+5909	doc/fastcgi-prog-guide/ch2c.htm	/^         <A NAME="5909"><\/A> Also note that the CGI world encourages small scripts, whereas FastCGI encourages$/;"	a
+6402	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="6402"><\/A>$/;"	a
+6403	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="6403">#define fprintf FCGI_fprintf$/;"	a
+6411	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="6411">FCGI_fprintf(stdout, &quot;&lt;H2&gt;Aerobic Juggling&lt;\/H2&gt;\/n&quot;);$/;"	a
+6463	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="6463"><\/A> The <CODE>fcgi_stdio.h<\/CODE> header file contains macros to translate calls to all ISO$/;"	a
+7138	doc/fastcgi-prog-guide/ch1intro.htm	/^            <A NAME="7138"><\/A>$/;"	a
+7832	doc/fastcgi-prog-guide/ch1intro.htm	/^            <A NAME="7832"><\/A>$/;"	a
+7982	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="7982"><\/A>$/;"	a
+7995	doc/fastcgi-prog-guide/ch1intro.htm	/^            and allowing the application to maintain state between client calls. <A NAME="7995"><\/A>$/;"	a
+7997	doc/fastcgi-prog-guide/ch1intro.htm	/^            as the Web server) <A NAME="7997"><\/A>$/;"	a
+801	doc/fastcgi-prog-guide/ap_guida.htm	/^       <A NAME="801"><\/A>$/;"	a
+8066	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8066"><\/A>$/;"	a
+8359	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8359"><\/A> <IMG ALT="error-file:TidyOut.log" SRC="ch1intra.gif">$/;"	a
+8369	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8369"><\/A>$/;"	a
+8373	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8373"><\/A> FastCGI is a proposed open standard and we expect both free and commercial Web servers to$/;"	a
+8409	doc/fastcgi-prog-guide/ch1intro.htm	/^            <A NAME="8409"><\/A>$/;"	a
+8410	doc/fastcgi-prog-guide/ch1intro.htm	/^            Responder <A NAME="8410"><\/A>$/;"	a
+8411	doc/fastcgi-prog-guide/ch1intro.htm	/^            Filter <A NAME="8411"><\/A>$/;"	a
+8421	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8421"><\/A> With filter applications, the system administrator maps a particular MIME-type to a$/;"	a
+8422	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8422"><\/A> For example, suppose you write a filter FastCGI application that converts SGML text to$/;"	a
+8423	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="8423">\/www.aerjug.com\/docs\/chap1.sgml$/;"	a
+8424	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8424"><\/A>$/;"	a
+8426	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8426"><\/A>$/;"	a
+8428	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8428"><\/A> To mark a FastCGI application as having the authorizer role, the system administrator$/;"	a
+8429	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8429"><\/A> When a client requests a URL that meets the <CODE>AuthorizeRegion<\/CODE> criteria, the Web$/;"	a
+8431	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8431"><\/A> Authorizer applications can return headers containing environment variables. Other CGI or$/;"	a
+8432	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="8432">Variable-<EM>name<\/EM>: <EM>value<\/EM>$/;"	a
+8433	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8433"><\/A>$/;"	a
+8434	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="8434">Variable-AUTH_METHOD: database lookup$/;"	a
+8435	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8435"><\/A>$/;"	a
+8437	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8437"><\/A> Authorizer applications cannot successfully read from standard input. Any attempts to read$/;"	a
+8438	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8438"><\/A> All data that authorizer applications write to standard error will get written to the$/;"	a
+8446	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8446"><\/A>$/;"	a
+8458	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8458"><\/A>$/;"	a
+8459	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8459"><\/A> FastCGI applications are long-lived, and can persist between client calls. The server$/;"	a
+8554	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8554"><\/A> As shown in the following figure, CGI applications use the three standard POSIX streams$/;"	a
+8576	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8576"><\/A> <IMG ALT="error-file:TidyOut.log" SRC="ch1inta1.gif">$/;"	a
+8679	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8679"><\/A>$/;"	a
+8681	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8681"><\/A>$/;"	a
+8733	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8733"><\/A>$/;"	a
+8734	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8734"><\/A> In most cases, these applications rely on customized Web servers. In other words, since$/;"	a
+8735	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8735"><\/A> Another way to get a long-lived application is to write code that calls routines from the$/;"	a
+8736	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8736"><\/A> We believe that FastCGI is the most general and flexible strategy for building long-lived$/;"	a
+8769	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8769"><\/A> The three roles supported by the WebServer 2.0 are:$/;"	a
+8777	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8777"><\/A>$/;"	a
+8957	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="8957"><\/A>$/;"	a
+8977	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="8977"><\/A>$/;"	a
+9001	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9001"><\/A>$/;"	a
+9020	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9020"><\/A> On the input side, the FastCGI application receives data on the connection, unpacks it to$/;"	a
+9032	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9032"><\/A> Since a FastCGI application does not always run on the same node as the HTTP server, we$/;"	a
+9049	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9049"><\/A>$/;"	a
+9110	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9110"><\/A> The FastCGI implementation basically creates a bidirectional connection between two$/;"	a
+917	doc/fastcgi-prog-guide/ch2c.htm	/^      <A NAME="917"><\/A>$/;"	a
+917	doc/fastcgi-prog-guide/ch3perl.htm	/^      <A NAME="917"><\/A>$/;"	a
+9204	doc/fastcgi-prog-guide/ch1intro.htm	/^            of it. <A NAME="9204"><\/A>$/;"	a
+9301	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9301"><\/A>$/;"	a
+94	doc/fastcgi-prog-guide/cover.htm	/^      <A NAME="94"><\/A>$/;"	a
+9432	doc/fastcgi-prog-guide/ch1intro.htm	/^       <A NAME="9432"><\/A>$/;"	a
+9443	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9443"><\/A>$/;"	a
+9450	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9450"><\/A> In general, the goal of the libraries is to make the job of writing a FastCGI application$/;"	a
+9470	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9470"><\/A>$/;"	a
+9471	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="9471">Initialization code$/;"	a
+9472	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="9472">Start of response loop$/;"	a
+9473	doc/fastcgi-prog-guide/ch1intro.htm	/^ <A NAME="9473">  body of response loop$/;"	a
+9474	doc/fastcgi-prog-guide/ch1intro.htm	/^<A NAME="9474">End of response loop$/;"	a
+9475	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9475"><\/A>$/;"	a
+9477	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9477"><\/A> The <EM>response loop<\/EM> runs continuously, waiting for client requests to arrive. The$/;"	a
+9481	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9481"><\/A>$/;"	a
+9483	doc/fastcgi-prog-guide/ch1intro.htm	/^            <A NAME="9483"><\/A>$/;"	a
+9484	doc/fastcgi-prog-guide/ch1intro.htm	/^            <CODE>PATH_TRANSLATED<\/CODE>, and <CODE>CONTENT_LENGTH<\/CODE> variables. <A NAME="9484"><\/A>$/;"	a
+9486	doc/fastcgi-prog-guide/ch1intro.htm	/^                  <A NAME="9486"><\/A>$/;"	a
+9488	doc/fastcgi-prog-guide/ch1intro.htm	/^                  January 1, 1970. <A NAME="9488"><\/A>$/;"	a
+9490	doc/fastcgi-prog-guide/ch1intro.htm	/^            <A NAME="9490"><\/A>$/;"	a
+95311	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95311"><\/A> <CODE>FCGI_StartFilterData<\/CODE>$/;"	a
+95313	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95313">#include &lt;fcgi_stdio.h&gt;$/;"	a
+95314	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95314">int FCGI_StartFilterData(void)$/;"	a
+95322	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95322"><\/A>$/;"	a
+95324	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95324">while (FCGI_Accept() &gt;= 0) {$/;"	a
+95325	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95325">...$/;"	a
+95358	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95358"> while (getchar () != OF) $/;"	a
+95359	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95359">$/;"	a
+95360	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95360">\/* Read in filter data and echo it back to client. *\/$/;"	a
+95361	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95361">   fwrite(tempBuffer, 1, len, stdout);$/;"	a
+95363	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95363"><\/A>$/;"	a
+95364	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95364">\/* Read data passed by client. *\/$/;"	a
+95366	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95366"> status = FCGI_StartFilterData();$/;"	a
+95367	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95367">\/* Adjust standard input stream. *\/$/;"	a
+95368	doc/fastcgi-prog-guide/apaman.htm	/^ <A NAME="95368"> while ((len = fread(tempBuffer, 1, 1024, stdin)) &gt; 0) $/;"	a
+95369	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95369">$/;"	a
+9545	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9545"><\/A> The fcgiapp library is more specific to FastCGI, and doesn&#39;t attempt the veneer of$/;"	a
+95637	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95637"><\/A> <CODE>FCGI_Accept, FCGI_ToFILE, FCGI_ToFcgiStream<\/CODE>$/;"	a
+95653	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95653">int<BR>$/;"	a
+95654	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95654">FILE *<BR>$/;"	a
+95655	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95655">FCGI_Stream *<BR>$/;"	a
+95657	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95657"><\/A> If the application was invoked as a CGI program, the first call to FCGI_Accept is$/;"	a
+95658	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95658"><\/A> If the application was invoked as a FastCGI server, the first call to FCGI_Accept$/;"	a
+95659	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95659"><\/A> In completing the current request, FCGI_Accept may detect errors, such as a broken pipe$/;"	a
+95660	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95660"><\/A> After accepting a new request, FCGI_Accept assigns new values to the global variables$/;"	a
+95661	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95661"><\/A> In addition to the standard CGI environment variables, the environment variable$/;"	a
+95662	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95662"><\/A> In the <CODE>FILTER<\/CODE> role, the additional variables <CODE>FCGI_DATA_LENGTH<\/CODE>$/;"	a
+95663	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95663"><\/A> The macros <CODE>FCGI_ToFILE<\/CODE> and <CODE>FCGI_ToFcgiStream<\/CODE> are provided to$/;"	a
+95669	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95669">#include &lt;fcgi_stdio.h&gt;$/;"	a
+95683	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95683"><\/A>$/;"	a
+95686	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95686"><\/A>$/;"	a
+95728	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95728"><\/A>$/;"	a
+95729	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95729"><\/A> In order to call <CODE>FCGI_StartFilterData<\/CODE>, the FastCGI application should have$/;"	a
+95730	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95730"><\/A> If the preconditions are not met (e.g., the application has not read <CODE>stdin<\/CODE>$/;"	a
+95731	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95731"><\/A> The application can determine the number of bytes available on <CODE>FCGI_DATA<\/CODE> by$/;"	a
+95732	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95732"><\/A> The application can determine last modification time of the filter input data by$/;"	a
+95787	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95787">void FCGI_SetExitStatus(int status);$/;"	a
+95789	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95789"><\/A> You can call <CODE>FCGI_SetExitStatus<\/CODE> several times during a request; the last$/;"	a
+9579	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9579"><\/A>$/;"	a
+95794	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95794"><\/A> <CODE>FCGI_SetExitStatus<\/CODE>$/;"	a
+95795	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95795">#include &lt;fcgi_stdio.h&gt;$/;"	a
+95796	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95796"><\/A>$/;"	a
+95797	doc/fastcgi-prog-guide/apaman.htm	/^         <A NAME="95797"><\/A>$/;"	a
+9580	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9580"><\/A> The implementation is in FCGI_Accept: the FCGI_Accept function tests its environment to$/;"	a
+9581	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9581"><\/A>$/;"	a
+95844	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95844">$/;"	a
+95845	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95845">} \/* End FCGI_Accept loop *\/$/;"	a
+95859	doc/fastcgi-prog-guide/apaman.htm	/^            <CODE>FCGI_Start_Filter_Data<\/CODE> <A NAME="95859"><\/A>$/;"	a
+9586	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9586"><\/A>$/;"	a
+95882	doc/fastcgi-prog-guide/apaman.htm	/^      <A NAME="95882"><\/A>$/;"	a
+95884	doc/fastcgi-prog-guide/apaman.htm	/^            <A NAME="95884"><\/A>$/;"	a
+95885	doc/fastcgi-prog-guide/apaman.htm	/^            <CODE>FCGI_Accept<\/CODE> <A NAME="95885"><\/A>$/;"	a
+95930	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95930">}$/;"	a
+95935	doc/fastcgi-prog-guide/apaman.htm	/^<A NAME="95935">{$/;"	a
+9645	doc/fastcgi-prog-guide/ch1intro.htm	/^       <SUP>1<\/SUP><A NAME="9645"><\/A>$/;"	a
+9659	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9659"><\/A> <CODE>fcgi_stdio.h<\/CODE>$/;"	a
+9664	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9664"><\/A> The implementation of FCGI_fprintf tests the file to see if it is a normal C stream or a$/;"	a
+9723	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9723"><\/A> The fcgi_stdio library implements our philosophy of making FastCGI applications similar to$/;"	a
+9731	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9731"><\/A> We recommend that you use the fcgi_stdio library, and this manual describes the routines$/;"	a
+9786	doc/fastcgi-prog-guide/ch1intro.htm	/^      <A NAME="9786"><\/A>$/;"	a
+9787	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9787"><\/A> You set the initial environment of a FastCGI process started by the <CODE>AppClass<\/CODE>$/;"	a
+9829	doc/fastcgi-prog-guide/ch1intro.htm	/^         <A NAME="9829"><\/A> In FastCGI processes started by the <CODE>AppClass<\/CODE> directive with the -affinity$/;"	a
+ACCEPT_TIMEOUT	libfcgi/os_win32.c	43;"	d	file:
+AIO_RD_IX	libfcgi/os_unix.c	85;"	d	file:
+AIO_WR_IX	libfcgi/os_unix.c	86;"	d	file:
+ASSERT	include/fcgimisc.h	35;"	d
+AcquireLock	libfcgi/os_unix.c	/^static int AcquireLock(int sock, int fail_on_intr)$/;"	f	file:
+AioInfo	libfcgi/os_unix.c	/^} AioInfo;$/;"	t	typeref:struct:__anon10	file:
+AlignInt8	libfcgi/fcgiapp.c	/^static int AlignInt8(unsigned n) {$/;"	f	file:
+AlignPtr8	libfcgi/fcgiapp.c	/^static unsigned char *AlignPtr8(unsigned char *p) {$/;"	f	file:
+AppServerReadHandler	cgi-fcgi/cgi-fcgi.c	/^static void AppServerReadHandler(ClientData dc, int bytesRead)$/;"	f	file:
+AppServerWriteHandler	cgi-fcgi/cgi-fcgi.c	/^static void AppServerWriteHandler(ClientData dc, int bytesWritten)$/;"	f	file:
+BEGIN_RECORD	libfcgi/fcgiapp.c	1437;"	d	file:
+BSC32	cgi-fcgi/cgi-fcgi.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	examples/authorizer.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	examples/echo-cpp.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	examples/echo.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	examples/echox.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	examples/size.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32	libfcgi/libfcgi.mak	/^BSC32=bscmake.exe$/;"	m
+BSC32_FLAGS	cgi-fcgi/cgi-fcgi.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\cgifcgi.bsc" $/;"	m
+BSC32_FLAGS	examples/authorizer.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\authorizer.bsc" $/;"	m
+BSC32_FLAGS	examples/echo-cpp.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\echo-cpp.bsc" $/;"	m
+BSC32_FLAGS	examples/echo.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\echo.bsc" $/;"	m
+BSC32_FLAGS	examples/echox.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\echox.bsc" $/;"	m
+BSC32_FLAGS	examples/size.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\size.bsc" $/;"	m
+BSC32_FLAGS	libfcgi/libfcgi.mak	/^BSC32_FLAGS=\/nologo \/o"$(OUTDIR)\\libfcgi.bsc" $/;"	m
+BSC32_SBRS	cgi-fcgi/cgi-fcgi.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	examples/authorizer.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	examples/echo-cpp.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	examples/echo.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	examples/echox.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	examples/size.mak	/^BSC32_SBRS= \\$/;"	m
+BSC32_SBRS	libfcgi/libfcgi.mak	/^BSC32_SBRS= \\$/;"	m
+BUFFLEN	cgi-fcgi/cgi-fcgi.c	66;"	d	file:
+Buffer	cgi-fcgi/cgi-fcgi.c	/^} Buffer;$/;"	t	typeref:struct:__anon1	file:
+CFG	cgi-fcgi/cgi-fcgi.mak	/^CFG=release$/;"	m
+CFG	examples/authorizer.mak	/^CFG=release$/;"	m
+CFG	examples/echo-cpp.mak	/^CFG=release$/;"	m
+CFG	examples/echo.mak	/^CFG=release$/;"	m
+CFG	examples/echox.mak	/^CFG=release$/;"	m
+CFG	examples/size.mak	/^CFG=release$/;"	m
+CFG	libfcgi/libfcgi.mak	/^CFG=release$/;"	m
+CPP	cgi-fcgi/cgi-fcgi.mak	/^CPP=cl.exe$/;"	m
+CPP	examples/authorizer.mak	/^CPP=cl.exe$/;"	m
+CPP	examples/echo-cpp.mak	/^CPP=cl.exe$/;"	m
+CPP	examples/echo.mak	/^CPP=cl.exe$/;"	m
+CPP	examples/echox.mak	/^CPP=cl.exe$/;"	m
+CPP	examples/size.mak	/^CPP=cl.exe$/;"	m
+CPP	libfcgi/libfcgi.mak	/^CPP=cl.exe$/;"	m
+CPP_PROJ	cgi-fcgi/cgi-fcgi.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\cgifcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	cgi-fcgi/cgi-fcgi.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\cgifcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	examples/authorizer.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\authorizer.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	examples/authorizer.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\authorizer.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	examples/echo-cpp.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/GX \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\echo-cpp.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	examples/echo-cpp.mak	/^CPP_PROJ=\/nologo \/MDd \/W3 \/Gm \/Gi \/GX \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\echo-cpp.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	examples/echo.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\echo.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	examples/echo.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\echo.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	examples/echox.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\echox.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	examples/echox.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\echox.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	examples/size.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/Gi \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\size.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	examples/size.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\size.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_PROJ	libfcgi/libfcgi.mak	/^CPP_PROJ=\/nologo \/MD \/W3 \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\libfcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_PROJ	libfcgi/libfcgi.mak	/^CPP_PROJ=\/nologo \/MDd \/W4 \/Gm \/Gi \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\libfcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+CPP_SWITCHES	libfcgi/libfcgi.mak	/^CPP_SWITCHES=\/nologo \/MD \/W3 \/GX \/O2 \/Ob2 \/I "..\\include" \/D "WIN32" \/D "NDEBUG" \/D "_CONSOLE" \/D "_MBCS" \/Fp"$(INTDIR)\\libfcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/c $/;"	m
+CPP_SWITCHES	libfcgi/libfcgi.mak	/^CPP_SWITCHES=\/nologo \/MDd \/W3 \/Gm \/Gi \/GX \/ZI \/Od \/I "..\\include" \/D "WIN32" \/D "_DEBUG" \/D "_CONSOLE" \/D "_MBCS" \/FR"$(INTDIR)\\\\" \/Fp"$(INTDIR)\\libfcgi.pch" \/YX \/Fo"$(INTDIR)\\\\" \/Fd"$(INTDIR)\\\\" \/FD \/GZ \/c $/;"	m
+ClientAddrOK	libfcgi/os_unix.c	/^static int ClientAddrOK(struct sockaddr_in *saPtr, const char *clientList)$/;"	f	file:
+ClientData	include/fcgios.h	/^    typedef int *ClientData;$/;"	t
+ClientData	include/fcgios.h	/^    typedef void *ClientData;$/;"	t
+CopyAndAdvance	libfcgi/fcgiapp.c	/^static void CopyAndAdvance(char **destPtr, char **srcPtr, int n)$/;"	f	file:
+DESCRIPTOR	libfcgi/os_win32.c	/^} DESCRIPTOR;$/;"	t	typeref:union:__anon12	file:
+DLLAPI	include/fcgi_stdio.h	28;"	d
+DLLAPI	include/fcgi_stdio.h	30;"	d
+DLLAPI	include/fcgiapp.h	27;"	d
+DLLAPI	include/fcgiapp.h	29;"	d
+DLLAPI	include/fcgio.h	39;"	d
+DLLAPI	include/fcgio.h	41;"	d
+DLLAPI	include/fcgios.h	54;"	d
+DLLAPI	include/fcgios.h	56;"	d
+DLLAPI	libfcgi/fcgi_stdio.c	30;"	d	file:
+DLLAPI	libfcgi/fcgiapp.c	47;"	d	file:
+DLLAPI	libfcgi/fcgio.cpp	22;"	d	file:
+DLLAPI	libfcgi/os_win32.c	32;"	d	file:
+EmptyBuffProc	libfcgi/fcgiapp.c	/^static void EmptyBuffProc(struct FCGX_Stream *stream, int doClose)$/;"	f	file:
+Errno	libfcgi/os_win32.c	/^    DWORD Errno;$/;"	m	struct:FD_TABLE	file:
+FALSE	include/fcgimisc.h	19;"	d
+FCGI	perl/version.pm	/^package FCGI;$/;"	p
+FCGIAccept	java/FCGIInterface.java	/^    int FCGIAccept() throws IOException{$/;"	m	class:FCGIInterface
+FCGIGlobalDefs	java/FCGIGlobalDefs.java	/^public abstract class FCGIGlobalDefs $/;"	c
+FCGIInputStream	java/FCGIInputStream.java	/^    public FCGIInputStream(FileInputStream inStream, int bufLen,$/;"	m	class:FCGIInputStream
+FCGIInputStream	java/FCGIInputStream.java	/^public class FCGIInputStream extends InputStream$/;"	c
+FCGIInterface	java/FCGIInterface.java	/^public class FCGIInterface $/;"	c
+FCGIMessage	java/FCGIMessage.java	/^    public FCGIMessage(){$/;"	m	class:FCGIMessage
+FCGIMessage	java/FCGIMessage.java	/^    public FCGIMessage(FCGIInputStream instream){$/;"	m	class:FCGIMessage
+FCGIMessage	java/FCGIMessage.java	/^public class FCGIMessage$/;"	c
+FCGIO_H	include/fcgio.h	31;"	d
+FCGIOutputStream	java/FCGIOutputStream.java	/^    public FCGIOutputStream(FileOutputStream outStream,$/;"	m	class:FCGIOutputStream
+FCGIOutputStream	java/FCGIOutputStream.java	/^public class FCGIOutputStream $/;"	c
+FCGIRequest	java/FCGIRequest.java	/^public class FCGIRequest $/;"	c
+FCGIUtil_BuildNameValueHeader	cgi-fcgi/cgi-fcgi.c	/^static void FCGIUtil_BuildNameValueHeader($/;"	f	file:
+FCGI_ABORT_REQUEST	include/fastcgi.h	51;"	d
+FCGI_AUTHORIZER	include/fastcgi.h	90;"	d
+FCGI_Accept	libfcgi/fcgi_stdio.c	/^int FCGI_Accept(void)$/;"	f
+FCGI_BEGIN_REQUEST	include/fastcgi.h	50;"	d
+FCGI_BeginRequestBody	include/fastcgi.h	/^} FCGI_BeginRequestBody;$/;"	t	typeref:struct:__anon3
+FCGI_BeginRequestRecord	include/fastcgi.h	/^} FCGI_BeginRequestRecord;$/;"	t	typeref:struct:__anon4
+FCGI_CANT_MPX_CONN	include/fastcgi.h	112;"	d
+FCGI_DATA	include/fastcgi.h	57;"	d
+FCGI_END_REQUEST	include/fastcgi.h	52;"	d
+FCGI_EndRequestBody	include/fastcgi.h	/^} FCGI_EndRequestBody;$/;"	t	typeref:struct:__anon5
+FCGI_EndRequestRecord	include/fastcgi.h	/^} FCGI_EndRequestRecord;$/;"	t	typeref:struct:__anon6
+FCGI_FAIL_ACCEPT_ON_INTR	include/fcgiapp.h	84;"	d
+FCGI_FILE	include/fcgi_stdio.h	/^} FCGI_FILE;$/;"	t	typeref:struct:__anon9
+FCGI_FILTER	include/fastcgi.h	91;"	d
+FCGI_Finish	libfcgi/fcgi_stdio.c	/^void FCGI_Finish(void)$/;"	f
+FCGI_GET_VALUES	include/fastcgi.h	58;"	d
+FCGI_GET_VALUES_RESULT	include/fastcgi.h	59;"	d
+FCGI_HEADER_LEN	include/fastcgi.h	40;"	d
+FCGI_Header	include/fastcgi.h	/^} FCGI_Header;$/;"	t	typeref:struct:__anon2
+FCGI_KEEP_CONN	include/fastcgi.h	84;"	d
+FCGI_LISTENSOCK_FILENO	include/fastcgi.h	21;"	d
+FCGI_MAXTYPE	include/fastcgi.h	61;"	d
+FCGI_MAX_CONNS	include/fastcgi.h	120;"	d
+FCGI_MAX_LENGTH	include/fastcgi.h	34;"	d
+FCGI_MAX_REQS	include/fastcgi.h	121;"	d
+FCGI_MPXS_CONNS	include/fastcgi.h	122;"	d
+FCGI_NULL_REQUEST_ID	include/fastcgi.h	66;"	d
+FCGI_OVERLOADED	include/fastcgi.h	113;"	d
+FCGI_OpenFromFILE	libfcgi/fcgi_stdio.c	/^static FCGI_FILE *FCGI_OpenFromFILE(FILE *stream)$/;"	f	file:
+FCGI_PARAMS	include/fastcgi.h	53;"	d
+FCGI_REQUEST_COMPLETE	include/fastcgi.h	111;"	d
+FCGI_RESPONDER	include/fastcgi.h	89;"	d
+FCGI_STDERR	include/fastcgi.h	56;"	d
+FCGI_STDIN	include/fastcgi.h	54;"	d
+FCGI_STDOUT	include/fastcgi.h	55;"	d
+FCGI_SetExitStatus	libfcgi/fcgi_stdio.c	/^void FCGI_SetExitStatus(int status)$/;"	f
+FCGI_Start	cgi-fcgi/cgi-fcgi.c	/^static void FCGI_Start(char *bindPath, char *appPath, int nServers)$/;"	f	file:
+FCGI_StartFilterData	libfcgi/fcgi_stdio.c	/^int FCGI_StartFilterData(void)$/;"	f
+FCGI_ToFILE	include/fcgi_stdio.h	52;"	d
+FCGI_ToFcgiStream	include/fcgi_stdio.h	53;"	d
+FCGI_UNKNOWN_ROLE	include/fastcgi.h	114;"	d
+FCGI_UNKNOWN_TYPE	include/fastcgi.h	60;"	d
+FCGI_UnknownTypeBody	include/fastcgi.h	/^} FCGI_UnknownTypeBody;$/;"	t	typeref:struct:__anon7
+FCGI_UnknownTypeRecord	include/fastcgi.h	/^} FCGI_UnknownTypeRecord;$/;"	t	typeref:struct:__anon8
+FCGI_VERSION_1	include/fastcgi.h	45;"	d
+FCGI_clearerr	libfcgi/fcgi_stdio.c	/^void FCGI_clearerr(FCGI_FILE *fp)$/;"	f
+FCGI_errno	include/fcgiapp.h	/^    int FCGI_errno;                \/* error status *\/$/;"	m	struct:FCGX_Stream
+FCGI_fclose	libfcgi/fcgi_stdio.c	/^int FCGI_fclose(FCGI_FILE *fp)$/;"	f
+FCGI_fdopen	libfcgi/fcgi_stdio.c	/^FCGI_FILE *FCGI_fdopen(int fd, const char *mode)$/;"	f
+FCGI_feof	libfcgi/fcgi_stdio.c	/^int FCGI_feof(FCGI_FILE *fp)$/;"	f
+FCGI_ferror	libfcgi/fcgi_stdio.c	/^int FCGI_ferror(FCGI_FILE *fp)$/;"	f
+FCGI_fflush	libfcgi/fcgi_stdio.c	/^int FCGI_fflush(FCGI_FILE *fp)$/;"	f
+FCGI_fgetc	libfcgi/fcgi_stdio.c	/^int FCGI_fgetc(FCGI_FILE *fp)$/;"	f
+FCGI_fgetpos	libfcgi/fcgi_stdio.c	/^int FCGI_fgetpos(FCGI_FILE *fp, fpos_t *pos)$/;"	f
+FCGI_fgets	libfcgi/fcgi_stdio.c	/^char *FCGI_fgets(char *str, int size, FCGI_FILE *fp)$/;"	f
+FCGI_fileno	libfcgi/fcgi_stdio.c	/^int FCGI_fileno(FCGI_FILE *fp)$/;"	f
+FCGI_fopen	libfcgi/fcgi_stdio.c	/^FCGI_FILE *FCGI_fopen(const char *path, const char *mode)$/;"	f
+FCGI_fprintf	libfcgi/fcgi_stdio.c	/^int FCGI_fprintf(FCGI_FILE *fp, const char *format, ...)$/;"	f
+FCGI_fputc	libfcgi/fcgi_stdio.c	/^int FCGI_fputc(int c, FCGI_FILE *fp)$/;"	f
+FCGI_fputs	libfcgi/fcgi_stdio.c	/^int FCGI_fputs(const char *str, FCGI_FILE *fp)$/;"	f
+FCGI_fread	libfcgi/fcgi_stdio.c	/^size_t FCGI_fread(void *ptr, size_t size, size_t nmemb, FCGI_FILE *fp)$/;"	f
+FCGI_freopen	libfcgi/fcgi_stdio.c	/^FCGI_FILE *FCGI_freopen(const char *path, const char *mode,$/;"	f
+FCGI_fseek	libfcgi/fcgi_stdio.c	/^int FCGI_fseek(FCGI_FILE *fp, long offset, int whence)$/;"	f
+FCGI_fsetpos	libfcgi/fcgi_stdio.c	/^int FCGI_fsetpos(FCGI_FILE *fp, const fpos_t *pos)$/;"	f
+FCGI_ftell	libfcgi/fcgi_stdio.c	/^int FCGI_ftell(FCGI_FILE *fp)$/;"	f
+FCGI_fwrite	libfcgi/fcgi_stdio.c	/^size_t FCGI_fwrite(void *ptr, size_t size, size_t nmemb, FCGI_FILE *fp)$/;"	f
+FCGI_getchar	libfcgi/fcgi_stdio.c	/^int FCGI_getchar(void)$/;"	f
+FCGI_gets	libfcgi/fcgi_stdio.c	/^char *FCGI_gets(char *str)$/;"	f
+FCGI_pclose	libfcgi/fcgi_stdio.c	/^int FCGI_pclose(FCGI_FILE *fp)$/;"	f
+FCGI_perror	libfcgi/fcgi_stdio.c	/^void FCGI_perror(const char *str)$/;"	f
+FCGI_popen	libfcgi/fcgi_stdio.c	/^FCGI_FILE *FCGI_popen(const char *cmd, const char *type)$/;"	f
+FCGI_printf	libfcgi/fcgi_stdio.c	/^int FCGI_printf(const char *format, ...)$/;"	f
+FCGI_putchar	libfcgi/fcgi_stdio.c	/^int FCGI_putchar(int c)$/;"	f
+FCGI_puts	libfcgi/fcgi_stdio.c	/^int FCGI_puts(const char *str)$/;"	f
+FCGI_rewind	libfcgi/fcgi_stdio.c	/^void FCGI_rewind(FCGI_FILE *fp)$/;"	f
+FCGI_setbuf	libfcgi/fcgi_stdio.c	/^void FCGI_setbuf(FCGI_FILE *fp, char *buf)$/;"	f
+FCGI_setvbuf	libfcgi/fcgi_stdio.c	/^int FCGI_setvbuf(FCGI_FILE *fp, char *buf, int bufmode, size_t size)$/;"	f
+FCGI_stderr	include/fcgi_stdio.h	62;"	d
+FCGI_stdin	include/fcgi_stdio.h	60;"	d
+FCGI_stdout	include/fcgi_stdio.h	61;"	d
+FCGI_tmpfile	libfcgi/fcgi_stdio.c	/^FCGI_FILE *FCGI_tmpfile(void)$/;"	f
+FCGI_ungetc	libfcgi/fcgi_stdio.c	/^int FCGI_ungetc(int c, FCGI_FILE *fp)$/;"	f
+FCGI_vfprintf	libfcgi/fcgi_stdio.c	/^int FCGI_vfprintf(FCGI_FILE *fp, const char *format, va_list ap)$/;"	f
+FCGI_vprintf	libfcgi/fcgi_stdio.c	/^int FCGI_vprintf(const char *format, va_list ap)$/;"	f
+FCGIaccept	java/FCGIInterface.java	/^    public int FCGIaccept() {$/;"	m	class:FCGIInterface
+FCGIexit	cgi-fcgi/cgi-fcgi.c	/^static void FCGIexit(int exitCode)$/;"	f	file:
+FCGX_Accept	libfcgi/fcgiapp.c	/^int FCGX_Accept($/;"	f
+FCGX_Accept_r	libfcgi/fcgiapp.c	/^int FCGX_Accept_r(FCGX_Request *reqDataPtr)$/;"	f
+FCGX_Attach	libfcgi/fcgiapp.c	/^FCGX_Attach(FCGX_Request * r)$/;"	f
+FCGX_CALL_SEQ_ERROR	include/fcgiapp.h	43;"	d
+FCGX_ClearError	libfcgi/fcgiapp.c	/^void FCGX_ClearError(FCGX_Stream *stream) {$/;"	f
+FCGX_CreateWriter	libfcgi/fcgiapp.c	/^FCGX_Stream *FCGX_CreateWriter($/;"	f
+FCGX_Detach	libfcgi/fcgiapp.c	/^FCGX_Detach(FCGX_Request * r)$/;"	f
+FCGX_FClose	libfcgi/fcgiapp.c	/^int FCGX_FClose(FCGX_Stream *stream)$/;"	f
+FCGX_FFlush	libfcgi/fcgiapp.c	/^int FCGX_FFlush(FCGX_Stream *stream)$/;"	f
+FCGX_FPrintF	libfcgi/fcgiapp.c	/^int FCGX_FPrintF(FCGX_Stream *stream, const char *format, ...)$/;"	f
+FCGX_Finish	libfcgi/fcgiapp.c	/^void FCGX_Finish(void)$/;"	f
+FCGX_Finish_r	libfcgi/fcgiapp.c	/^void FCGX_Finish_r(FCGX_Request *reqDataPtr)$/;"	f
+FCGX_Free	libfcgi/fcgiapp.c	/^void FCGX_Free(FCGX_Request * request, int close)$/;"	f
+FCGX_FreeStream	libfcgi/fcgiapp.c	/^void FCGX_FreeStream(FCGX_Stream **streamPtr)$/;"	f
+FCGX_GetChar	libfcgi/fcgiapp.c	/^int FCGX_GetChar(FCGX_Stream *stream)$/;"	f
+FCGX_GetError	libfcgi/fcgiapp.c	/^int FCGX_GetError(FCGX_Stream *stream) {$/;"	f
+FCGX_GetLine	libfcgi/fcgiapp.c	/^char *FCGX_GetLine(char *str, int n, FCGX_Stream *stream)$/;"	f
+FCGX_GetParam	libfcgi/fcgiapp.c	/^char *FCGX_GetParam(const char *name, FCGX_ParamArray envp)$/;"	f
+FCGX_GetStr	libfcgi/fcgiapp.c	/^int FCGX_GetStr(char *str, int n, FCGX_Stream *stream)$/;"	f
+FCGX_HasSeenEOF	libfcgi/fcgiapp.c	/^int FCGX_HasSeenEOF(FCGX_Stream *stream) {$/;"	f
+FCGX_Init	libfcgi/fcgiapp.c	/^int FCGX_Init(void)$/;"	f
+FCGX_InitRequest	libfcgi/fcgiapp.c	/^int FCGX_InitRequest(FCGX_Request *request, int sock, int flags)$/;"	f
+FCGX_IsCGI	libfcgi/fcgiapp.c	/^int FCGX_IsCGI(void)$/;"	f
+FCGX_OpenSocket	libfcgi/fcgiapp.c	/^int FCGX_OpenSocket(const char *path, int backlog)$/;"	f
+FCGX_PARAMS_ERROR	include/fcgiapp.h	42;"	d
+FCGX_PROTOCOL_ERROR	include/fcgiapp.h	41;"	d
+FCGX_ParamArray	include/fcgiapp.h	/^typedef char **FCGX_ParamArray;$/;"	t
+FCGX_PutChar	libfcgi/fcgiapp.c	/^int FCGX_PutChar(int c, FCGX_Stream *stream)$/;"	f
+FCGX_PutS	libfcgi/fcgiapp.c	/^int FCGX_PutS(const char *str, FCGX_Stream *stream)$/;"	f
+FCGX_PutStr	libfcgi/fcgiapp.c	/^int FCGX_PutStr(const char *str, int n, FCGX_Stream *stream)$/;"	f
+FCGX_Request	include/fcgiapp.h	/^typedef struct FCGX_Request {$/;"	s
+FCGX_Request	include/fcgiapp.h	/^} FCGX_Request;$/;"	t	typeref:struct:FCGX_Request
+FCGX_SetExitStatus	libfcgi/fcgiapp.c	/^void FCGX_SetExitStatus(int status, FCGX_Stream *stream)$/;"	f
+FCGX_ShutdownPending	libfcgi/fcgiapp.c	/^void FCGX_ShutdownPending(void)$/;"	f
+FCGX_StartFilterData	libfcgi/fcgiapp.c	/^int FCGX_StartFilterData(FCGX_Stream *stream)$/;"	f
+FCGX_Stream	include/fcgiapp.h	/^typedef struct FCGX_Stream {$/;"	s
+FCGX_Stream	include/fcgiapp.h	/^} FCGX_Stream;$/;"	t	typeref:struct:FCGX_Stream
+FCGX_Stream_Data	libfcgi/fcgiapp.c	/^typedef struct FCGX_Stream_Data {$/;"	s	file:
+FCGX_Stream_Data	libfcgi/fcgiapp.c	/^} FCGX_Stream_Data;$/;"	t	typeref:struct:FCGX_Stream_Data	file:
+FCGX_UNSUPPORTED_VERSION	include/fcgiapp.h	40;"	d
+FCGX_UnGetChar	libfcgi/fcgiapp.c	/^int FCGX_UnGetChar(int c, FCGX_Stream *stream) {$/;"	f
+FCGX_VFPrintF	libfcgi/fcgiapp.c	/^int FCGX_VFPrintF(FCGX_Stream *stream, const char *format, va_list arg)$/;"	f
+FD_FILE_ASYNC	libfcgi/os_win32.c	/^    FD_FILE_ASYNC,$/;"	e	enum:__anon11	file:
+FD_FILE_SYNC	libfcgi/os_win32.c	/^    FD_FILE_SYNC,$/;"	e	enum:__anon11	file:
+FD_PIPE_ASYNC	libfcgi/os_win32.c	/^    FD_PIPE_ASYNC$/;"	e	enum:__anon11	file:
+FD_PIPE_SYNC	libfcgi/os_win32.c	/^    FD_PIPE_SYNC,$/;"	e	enum:__anon11	file:
+FD_SOCKET_ASYNC	libfcgi/os_win32.c	/^    FD_SOCKET_ASYNC,$/;"	e	enum:__anon11	file:
+FD_SOCKET_SYNC	libfcgi/os_win32.c	/^    FD_SOCKET_SYNC,$/;"	e	enum:__anon11	file:
+FD_TABLE	libfcgi/os_win32.c	/^struct FD_TABLE {$/;"	s	file:
+FD_UNUSED	libfcgi/os_win32.c	/^    FD_UNUSED,$/;"	e	enum:__anon11	file:
+FILE	include/fcgi_stdio.h	140;"	d
+FILE	include/fcgi_stdio.h	141;"	d
+FILE_TYPE	libfcgi/os_win32.c	/^} FILE_TYPE;$/;"	t	typeref:enum:__anon11	file:
+FMT_BUFFLEN	libfcgi/fcgiapp.c	405;"	d	file:
+FillBuffProc	libfcgi/fcgiapp.c	/^static void FillBuffProc(FCGX_Stream *stream)$/;"	f	file:
+FreeParams	libfcgi/fcgiapp.c	/^static void FreeParams(ParamsPtr *paramsPtrPtr)$/;"	f	file:
+GetPtr	cgi-fcgi/cgi-fcgi.c	/^static int GetPtr(char **ptr, int n, Buffer *pBuf)$/;"	f	file:
+GrowAsyncTable	libfcgi/os_unix.c	/^static void GrowAsyncTable(void)$/;"	f	file:
+HAVE_ARPA_INET_H	fcgi_config.h	5;"	d
+HAVE_ARPA_INET_H	include/fcgi_config_x86.h	10;"	d
+HAVE_DLFCN_H	fcgi_config.h	8;"	d
+HAVE_DLFCN_H	include/fcgi_config_x86.h	11;"	d
+HAVE_FILENO_PROTO	fcgi_config.h	11;"	d
+HAVE_FILENO_PROTO	include/fcgi_config_x86.h	12;"	d
+HAVE_FPOS	fcgi_config.h	14;"	d
+HAVE_FPOS	include/fcgi_config_x86.h	6;"	d
+HAVE_INTTYPES_H	fcgi_config.h	17;"	d
+HAVE_INTTYPES_H	include/fcgi_config_x86.h	13;"	d
+HAVE_IOSTREAM_WITHASSIGN_STREAMBUF	include/fcgi_config_x86.h	14;"	d
+HAVE_LIBNSL	fcgi_config.h	23;"	d
+HAVE_LIBNSL	include/fcgi_config_x86.h	15;"	d
+HAVE_LIBSOCKET	fcgi_config.h	26;"	d
+HAVE_LIBSOCKET	include/fcgi_config_x86.h	16;"	d
+HAVE_LIMITS_H	fcgi_config.h	29;"	d
+HAVE_LIMITS_H	include/fcgi_config_x86.h	7;"	d
+HAVE_MEMORY_H	fcgi_config.h	32;"	d
+HAVE_MEMORY_H	include/fcgi_config_x86.h	17;"	d
+HAVE_NETDB_H	fcgi_config.h	35;"	d
+HAVE_NETDB_H	include/fcgi_config_x86.h	18;"	d
+HAVE_NETINET_IN_H	fcgi_config.h	38;"	d
+HAVE_NETINET_IN_H	include/fcgi_config_x86.h	19;"	d
+HAVE_PTHREAD	include/fcgi_config_x86.h	20;"	d
+HAVE_SOCKADDR_UN_SUN_LEN	include/fcgi_config_x86.h	21;"	d
+HAVE_SOCKLEN	include/fcgi_config_x86.h	22;"	d
+HAVE_STDINT_H	include/fcgi_config_x86.h	23;"	d
+HAVE_STDLIB_H	fcgi_config.h	53;"	d
+HAVE_STDLIB_H	include/fcgi_config_x86.h	24;"	d
+HAVE_STREAMBUF_CHAR_TYPE	fcgi_config.h	56;"	d
+HAVE_STREAMBUF_CHAR_TYPE	include/fcgi_config_x86.h	8;"	d
+HAVE_STRERROR	fcgi_config.h	59;"	d
+HAVE_STRERROR	include/fcgi_config_x86.h	9;"	d
+HAVE_STRINGS_H	fcgi_config.h	62;"	d
+HAVE_STRINGS_H	include/fcgi_config_x86.h	26;"	d
+HAVE_STRING_H	fcgi_config.h	65;"	d
+HAVE_STRING_H	include/fcgi_config_x86.h	25;"	d
+HAVE_SYS_PARAM_H	fcgi_config.h	68;"	d
+HAVE_SYS_PARAM_H	include/fcgi_config_x86.h	27;"	d
+HAVE_SYS_SOCKET_H	fcgi_config.h	71;"	d
+HAVE_SYS_SOCKET_H	include/fcgi_config_x86.h	28;"	d
+HAVE_SYS_STAT_H	fcgi_config.h	74;"	d
+HAVE_SYS_STAT_H	include/fcgi_config_x86.h	29;"	d
+HAVE_SYS_TIME_H	fcgi_config.h	77;"	d
+HAVE_SYS_TIME_H	include/fcgi_config_x86.h	30;"	d
+HAVE_SYS_TYPES_H	fcgi_config.h	80;"	d
+HAVE_SYS_TYPES_H	include/fcgi_config_x86.h	31;"	d
+HAVE_UNISTD_H	fcgi_config.h	83;"	d
+HAVE_UNISTD_H	include/fcgi_config_x86.h	32;"	d
+HAVE_VA_ARG_LONG_DOUBLE_BUG	include/fcgi_config_x86.h	33;"	d
+INADDR_NONE	libfcgi/os_unix.c	63;"	d	file:
+INTDIR	cgi-fcgi/cgi-fcgi.mak	/^INTDIR=.\\..\/cgi-fcgi\/Debug$/;"	m
+INTDIR	cgi-fcgi/cgi-fcgi.mak	/^INTDIR=.\\..\\cgi-fcgi\\Release$/;"	m
+INTDIR	examples/authorizer.mak	/^INTDIR=.\\..\\examples\/authorizer\/Debug$/;"	m
+INTDIR	examples/authorizer.mak	/^INTDIR=.\\..\\examples\\authorizer\\Release$/;"	m
+INTDIR	examples/echo-cpp.mak	/^INTDIR=.\\..\/examples\/echo-cpp\\Debug$/;"	m
+INTDIR	examples/echo-cpp.mak	/^INTDIR=.\\..\\examples\\echo-cpp\\Release$/;"	m
+INTDIR	examples/echo.mak	/^INTDIR=.\\..\/examples\/echo\\Debug$/;"	m
+INTDIR	examples/echo.mak	/^INTDIR=.\\..\\examples\\echo\\Release$/;"	m
+INTDIR	examples/echox.mak	/^INTDIR=.\\..\/examples\/echo-x\\Debug$/;"	m
+INTDIR	examples/echox.mak	/^INTDIR=.\\..\\examples\\echo-x\\Release$/;"	m
+INTDIR	examples/size.mak	/^INTDIR=.\\..\/examples\/size\\Debug$/;"	m
+INTDIR	examples/size.mak	/^INTDIR=.\\..\\examples\\size\\Release$/;"	m
+INTDIR	libfcgi/libfcgi.mak	/^INTDIR=.\\..\\libfcgi\\Debug$/;"	m
+INTDIR	libfcgi/libfcgi.mak	/^INTDIR=.\\..\\libfcgi\\Release$/;"	m
+LINK32	cgi-fcgi/cgi-fcgi.mak	/^LINK32=link.exe$/;"	m
+LINK32	examples/authorizer.mak	/^LINK32=link.exe$/;"	m
+LINK32	examples/echo-cpp.mak	/^LINK32=link.exe$/;"	m
+LINK32	examples/echo.mak	/^LINK32=link.exe$/;"	m
+LINK32	examples/echox.mak	/^LINK32=link.exe$/;"	m
+LINK32	examples/size.mak	/^LINK32=link.exe$/;"	m
+LINK32	libfcgi/libfcgi.mak	/^LINK32=link.exe$/;"	m
+LINK32_FLAGS	cgi-fcgi/cgi-fcgi.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\cgi-fcgi.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	cgi-fcgi/cgi-fcgi.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/debug \/machine:IX86 \/out:"$(OUTDIR)\\cgi-fcgi.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	examples/authorizer.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\authorizer.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	examples/authorizer.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/debug \/machine:IX86 \/out:"$(OUTDIR)\\authorizer.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	examples/echo-cpp.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\echo-cpp.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	examples/echo-cpp.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/debug \/machine:IX86 \/out:"$(OUTDIR)\\echo-cpp.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	examples/echo.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\echo.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	examples/echo.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/map:"$(INTDIR)\\echo.map" \/debug \/machine:IX86 \/out:"$(OUTDIR)\\echo.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	examples/echox.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\echo-x.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	examples/echox.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/debug \/machine:IX86 \/out:"$(OUTDIR)\\echo-x.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	examples/size.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/pdb:none \/machine:IX86 \/out:"$(OUTDIR)\\size.exe" \/libpath:"..\\libfcgi\\Release" $/;"	m
+LINK32_FLAGS	examples/size.mak	/^LINK32_FLAGS=libfcgi.lib \/nologo \/profile \/debug \/machine:IX86 \/out:"$(OUTDIR)\\size.exe" \/libpath:"..\\libfcgi\\Debug" $/;"	m
+LINK32_FLAGS	libfcgi/libfcgi.mak	/^LINK32_FLAGS=Ws2_32.lib \/nologo \/dll \/pdb:none \/machine:I386 \/out:"$(OUTDIR)\\libfcgi.dll" \/implib:"$(OUTDIR)\\libfcgi.lib" $/;"	m
+LINK32_FLAGS	libfcgi/libfcgi.mak	/^LINK32_FLAGS=Ws2_32.lib \/nologo \/dll \/profile \/map:"$(INTDIR)\\libfcgi.map" \/debug \/machine:I386 \/out:"$(OUTDIR)\\libfcgi.dll" \/implib:"$(OUTDIR)\\libfcgi.lib" $/;"	m
+LINK32_OBJS	cgi-fcgi/cgi-fcgi.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	examples/authorizer.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	examples/echo-cpp.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	examples/echo.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	examples/echox.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	examples/size.mak	/^LINK32_OBJS= \\$/;"	m
+LINK32_OBJS	libfcgi/libfcgi.mak	/^LINK32_OBJS= \\$/;"	m
+LOCALHOST	libfcgi/os_win32.c	47;"	d	file:
+LONG_DOUBLE	libfcgi/fcgiapp.c	61;"	d	file:
+LONG_DOUBLE	libfcgi/fcgiapp.c	63;"	d	file:
+MAXARGS	cgi-fcgi/cgi-fcgi.c	582;"	d	file:
+MAXPATHLEN	include/fcgios.h	85;"	d
+MGMT_RECORD	libfcgi/fcgiapp.c	1438;"	d	file:
+MTL	cgi-fcgi/cgi-fcgi.mak	/^MTL=midl.exe$/;"	m
+MTL	examples/authorizer.mak	/^MTL=midl.exe$/;"	m
+MTL	examples/echo-cpp.mak	/^MTL=midl.exe$/;"	m
+MTL	examples/echo.mak	/^MTL=midl.exe$/;"	m
+MTL	examples/echox.mak	/^MTL=midl.exe$/;"	m
+MTL	examples/size.mak	/^MTL=midl.exe$/;"	m
+MTL	libfcgi/libfcgi.mak	/^MTL=midl.exe$/;"	m
+MTL_PROJ	cgi-fcgi/cgi-fcgi.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	cgi-fcgi/cgi-fcgi.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/authorizer.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/authorizer.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echo-cpp.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echo-cpp.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echo.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echo.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echox.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/echox.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/size.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	examples/size.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	libfcgi/libfcgi.mak	/^MTL_PROJ=\/nologo \/D "NDEBUG" \/mktyplib203 \/win32 $/;"	m
+MTL_PROJ	libfcgi/libfcgi.mak	/^MTL_PROJ=\/nologo \/D "_DEBUG" \/mktyplib203 \/win32 $/;"	m
+MUTEX_VARNAME	libfcgi/os_win32.c	45;"	d	file:
+MakeBeginRequestBody	cgi-fcgi/cgi-fcgi.c	/^static FCGI_BeginRequestBody MakeBeginRequestBody($/;"	f	file:
+MakeEndRequestBody	libfcgi/fcgiapp.c	/^static FCGI_EndRequestBody MakeEndRequestBody($/;"	f	file:
+MakeHeader	cgi-fcgi/cgi-fcgi.c	/^static FCGI_Header MakeHeader($/;"	f	file:
+MakeHeader	libfcgi/fcgiapp.c	/^static FCGI_Header MakeHeader($/;"	f	file:
+MakeUnknownTypeBody	libfcgi/fcgiapp.c	/^static FCGI_UnknownTypeBody MakeUnknownTypeBody($/;"	f	file:
+Malloc	libfcgi/fcgiapp.c	/^static void *Malloc(size_t size)$/;"	f	file:
+NO_FCGI_DEFINES	libfcgi/fcgi_stdio.c	37;"	d	file:
+NO_FCGI_DEFINES	libfcgi/fcgi_stdio.c	39;"	d	file:
+NULL	cgi-fcgi/cgi-fcgi.mak	/^NULL=$/;"	m
+NULL	cgi-fcgi/cgi-fcgi.mak	/^NULL=nul$/;"	m
+NULL	examples/authorizer.mak	/^NULL=$/;"	m
+NULL	examples/authorizer.mak	/^NULL=nul$/;"	m
+NULL	examples/echo-cpp.mak	/^NULL=$/;"	m
+NULL	examples/echo-cpp.mak	/^NULL=nul$/;"	m
+NULL	examples/echo.mak	/^NULL=$/;"	m
+NULL	examples/echo.mak	/^NULL=nul$/;"	m
+NULL	examples/echox.mak	/^NULL=$/;"	m
+NULL	examples/echox.mak	/^NULL=nul$/;"	m
+NULL	examples/size.mak	/^NULL=$/;"	m
+NULL	examples/size.mak	/^NULL=nul$/;"	m
+NULL	libfcgi/libfcgi.mak	/^NULL=$/;"	m
+NULL	libfcgi/libfcgi.mak	/^NULL=nul$/;"	m
+NewParams	libfcgi/fcgiapp.c	/^static ParamsPtr NewParams(int length)$/;"	f	file:
+NewReader	libfcgi/fcgiapp.c	/^static FCGX_Stream *NewReader(FCGX_Request *reqDataPtr, int bufflen, int streamType)$/;"	f	file:
+NewStream	libfcgi/fcgiapp.c	/^static FCGX_Stream *NewStream($/;"	f	file:
+NewWriter	libfcgi/fcgiapp.c	/^static FCGX_Stream *NewWriter(FCGX_Request *reqDataPtr, int bufflen, int streamType)$/;"	f	file:
+OS_Accept	libfcgi/os_unix.c	/^int OS_Accept(int listen_sock, int fail_on_intr, const char *webServerAddrs)$/;"	f
+OS_Accept	libfcgi/os_win32.c	/^int OS_Accept(int listen_sock, int fail_on_intr, const char *webServerAddrs)$/;"	f
+OS_AsyncProc	include/fcgios.h	/^typedef void (*OS_AsyncProc) (ClientData clientData, int len);$/;"	t
+OS_AsyncRead	libfcgi/os_unix.c	/^int OS_AsyncRead(int fd, int offset, void *buf, int len,$/;"	f
+OS_AsyncRead	libfcgi/os_win32.c	/^int OS_AsyncRead(int fd, int offset, void *buf, int len,$/;"	f
+OS_AsyncReadStdin	libfcgi/os_unix.c	/^int OS_AsyncReadStdin(void *buf, int len, OS_AsyncProc procPtr,$/;"	f
+OS_AsyncReadStdin	libfcgi/os_win32.c	/^int OS_AsyncReadStdin(void *buf, int len, OS_AsyncProc procPtr,$/;"	f
+OS_AsyncWrite	libfcgi/os_unix.c	/^int OS_AsyncWrite(int fd, int offset, void *buf, int len,$/;"	f
+OS_AsyncWrite	libfcgi/os_win32.c	/^int OS_AsyncWrite(int fd, int offset, void *buf, int len,$/;"	f
+OS_BuildSockAddrUn	libfcgi/os_unix.c	/^static int OS_BuildSockAddrUn(const char *bindPath,$/;"	f	file:
+OS_Close	libfcgi/os_unix.c	/^int OS_Close(int fd, int shutdown_ok)$/;"	f
+OS_Close	libfcgi/os_win32.c	/^int OS_Close(int fd, int shutdown_ok)$/;"	f
+OS_CloseRead	libfcgi/os_unix.c	/^int OS_CloseRead(int fd)$/;"	f
+OS_CloseRead	libfcgi/os_win32.c	/^int OS_CloseRead(int fd)$/;"	f
+OS_CreateLocalIpcFd	libfcgi/os_unix.c	/^int OS_CreateLocalIpcFd(const char *bindPath, int backlog)$/;"	f
+OS_CreateLocalIpcFd	libfcgi/os_win32.c	/^int OS_CreateLocalIpcFd(const char *bindPath, int backlog)$/;"	f
+OS_DoIo	libfcgi/os_unix.c	/^int OS_DoIo(struct timeval *tmo)$/;"	f
+OS_DoIo	libfcgi/os_win32.c	/^int OS_DoIo(struct timeval *tmo)$/;"	f
+OS_Errno	include/fcgios.h	42;"	d
+OS_Errno	include/fcgios.h	48;"	d
+OS_FcgiConnect	libfcgi/os_unix.c	/^int OS_FcgiConnect(char *bindPath)$/;"	f
+OS_FcgiConnect	libfcgi/os_win32.c	/^int OS_FcgiConnect(char *bindPath)$/;"	f
+OS_InstallSignalHandlers	libfcgi/os_unix.c	/^static void OS_InstallSignalHandlers(int force)$/;"	f	file:
+OS_IpcClose	libfcgi/os_unix.c	/^int OS_IpcClose(int ipcFd, int shutdown)$/;"	f
+OS_IpcClose	libfcgi/os_win32.c	/^int OS_IpcClose(int ipcFd, int shutdown)$/;"	f
+OS_IsFcgi	libfcgi/os_unix.c	/^int OS_IsFcgi(int sock)$/;"	f
+OS_IsFcgi	libfcgi/os_win32.c	/^int OS_IsFcgi(int sock)$/;"	f
+OS_LibInit	libfcgi/os_unix.c	/^int OS_LibInit(int stdioFds[3])$/;"	f
+OS_LibInit	libfcgi/os_win32.c	/^int OS_LibInit(int stdioFds[3])$/;"	f
+OS_LibShutdown	libfcgi/os_unix.c	/^void OS_LibShutdown()$/;"	f
+OS_LibShutdown	libfcgi/os_win32.c	/^void OS_LibShutdown()$/;"	f
+OS_Read	libfcgi/os_unix.c	/^int OS_Read(int fd, char * buf, size_t len)$/;"	f
+OS_Read	libfcgi/os_win32.c	/^int OS_Read(int fd, char * buf, size_t len)$/;"	f
+OS_SetErrno	include/fcgios.h	43;"	d
+OS_SetErrno	include/fcgios.h	49;"	d
+OS_SetFlags	libfcgi/os_unix.c	/^void OS_SetFlags(int fd, int flags)$/;"	f
+OS_SetFlags	libfcgi/os_win32.c	/^void OS_SetFlags(int fd, int flags)$/;"	f
+OS_ShutdownPending	libfcgi/os_unix.c	/^void OS_ShutdownPending()$/;"	f
+OS_ShutdownPending	libfcgi/os_win32.c	/^void OS_ShutdownPending(void)$/;"	f
+OS_SigpipeHandler	libfcgi/os_unix.c	/^static void OS_SigpipeHandler(int signo)$/;"	f	file:
+OS_Sigusr1Handler	libfcgi/os_unix.c	/^static void OS_Sigusr1Handler(int signo)$/;"	f	file:
+OS_SpawnChild	libfcgi/os_unix.c	/^int OS_SpawnChild(char *appPath, int listenFd)$/;"	f
+OS_SpawnChild	libfcgi/os_win32.c	/^int OS_SpawnChild(char *execPath, int listenFd)$/;"	f
+OS_Write	libfcgi/os_unix.c	/^int OS_Write(int fd, char * buf, size_t len)$/;"	f
+OS_Write	libfcgi/os_win32.c	/^int OS_Write(int fd, char * buf, size_t len)$/;"	f
+OUTDIR	cgi-fcgi/cgi-fcgi.mak	/^OUTDIR=.\\..\/cgi-fcgi\/Debug$/;"	m
+OUTDIR	cgi-fcgi/cgi-fcgi.mak	/^OUTDIR=.\\..\\cgi-fcgi\\Release$/;"	m
+OUTDIR	examples/authorizer.mak	/^OUTDIR=.\\..\\examples\/authorizer\/Debug$/;"	m
+OUTDIR	examples/authorizer.mak	/^OUTDIR=.\\..\\examples\\authorizer\\Release$/;"	m
+OUTDIR	examples/echo-cpp.mak	/^OUTDIR=.\\..\/examples\/echo-cpp\\Debug$/;"	m
+OUTDIR	examples/echo-cpp.mak	/^OUTDIR=.\\..\\examples\\echo-cpp\\Release$/;"	m
+OUTDIR	examples/echo.mak	/^OUTDIR=.\\..\/examples\/echo\\Debug$/;"	m
+OUTDIR	examples/echo.mak	/^OUTDIR=.\\..\\examples\\echo\\Release$/;"	m
+OUTDIR	examples/echox.mak	/^OUTDIR=.\\..\/examples\/echo-x\\Debug$/;"	m
+OUTDIR	examples/echox.mak	/^OUTDIR=.\\..\\examples\\echo-x\\Release$/;"	m
+OUTDIR	examples/size.mak	/^OUTDIR=.\\..\/examples\/size\\Debug$/;"	m
+OUTDIR	examples/size.mak	/^OUTDIR=.\\..\\examples\\size\\Release$/;"	m
+OUTDIR	libfcgi/libfcgi.mak	/^OUTDIR=.\\..\\libfcgi\\Debug$/;"	m
+OUTDIR	libfcgi/libfcgi.mak	/^OUTDIR=.\\..\\libfcgi\\Release$/;"	m
+OVERLAPPED_REQUEST	libfcgi/os_win32.c	/^struct OVERLAPPED_REQUEST {$/;"	s	file:
+O_NONBLOCK	include/fcgios.h	45;"	d
+OutDir	cgi-fcgi/cgi-fcgi.mak	/^OutDir=.\\..\/cgi-fcgi\/Debug$/;"	m
+OutDir	cgi-fcgi/cgi-fcgi.mak	/^OutDir=.\\..\\cgi-fcgi\\Release$/;"	m
+OutDir	examples/authorizer.mak	/^OutDir=.\\..\\examples\/authorizer\/Debug$/;"	m
+OutDir	examples/authorizer.mak	/^OutDir=.\\..\\examples\\authorizer\\Release$/;"	m
+OutDir	examples/echo-cpp.mak	/^OutDir=.\\..\/examples\/echo-cpp\\Debug$/;"	m
+OutDir	examples/echo-cpp.mak	/^OutDir=.\\..\\examples\\echo-cpp\\Release$/;"	m
+OutDir	examples/echo.mak	/^OutDir=.\\..\/examples\/echo\\Debug$/;"	m
+OutDir	examples/echo.mak	/^OutDir=.\\..\\examples\\echo\\Release$/;"	m
+OutDir	examples/echox.mak	/^OutDir=.\\..\/examples\/echo-x\\Debug$/;"	m
+OutDir	examples/echox.mak	/^OutDir=.\\..\\examples\\echo-x\\Release$/;"	m
+OutDir	examples/size.mak	/^OutDir=.\\..\/examples\/size\\Debug$/;"	m
+OutDir	examples/size.mak	/^OutDir=.\\..\\examples\\size\\Release$/;"	m
+OutDir	libfcgi/libfcgi.mak	/^OutDir=.\\..\\libfcgi\\Debug$/;"	m
+OutDir	libfcgi/libfcgi.mak	/^OutDir=.\\..\\libfcgi\\Release$/;"	m
+PACKAGE	fcgi_config.h	89;"	d
+POVERLAPPED_REQUEST	libfcgi/os_win32.c	/^typedef struct OVERLAPPED_REQUEST *POVERLAPPED_REQUEST;$/;"	t	typeref:struct:OVERLAPPED_REQUEST	file:
+PRINTF_BUFFLEN	libfcgi/fcgiapp.c	400;"	d	file:
+PTHREAD_CREATE_JOINABLE	include/fcgi_config_x86.h	34;"	d
+Params	libfcgi/fcgiapp.c	/^typedef struct Params {$/;"	s	file:
+Params	libfcgi/fcgiapp.c	/^} Params;$/;"	t	typeref:struct:Params	file:
+ParamsPtr	libfcgi/fcgiapp.c	/^typedef Params *ParamsPtr;$/;"	t	file:
+ParseArgs	cgi-fcgi/cgi-fcgi.c	/^static int ParseArgs(int argc, char *argv[],$/;"	f	file:
+PrintEnv	examples/echo-x.c	/^static void PrintEnv(FCGX_Stream *out, char *label, char **envp)$/;"	f	file:
+PrintEnv	examples/echo.c	/^static void PrintEnv(char *label, char **envp)$/;"	f	file:
+ProcessBeginRecord	libfcgi/fcgiapp.c	/^static int ProcessBeginRecord(int requestId, FCGX_Stream *stream)$/;"	f	file:
+ProcessHeader	libfcgi/fcgiapp.c	/^static int ProcessHeader(FCGI_Header header, FCGX_Stream *stream)$/;"	f	file:
+ProcessManagementRecord	libfcgi/fcgiapp.c	/^static int ProcessManagementRecord(int type, FCGX_Stream *stream)$/;"	f	file:
+PutParam	libfcgi/fcgiapp.c	/^static void PutParam(ParamsPtr paramsPtr, char *nameValue)$/;"	f	file:
+RCSID	java/FCGIGlobalDefs.java	/^    private static final String RCSID = "$Id: FCGIGlobalDefs.java,v 1.3 2000\/03\/21 12:12:25 robs Exp $";$/;"	f	class:FCGIGlobalDefs	file:
+RCSID	java/FCGIInputStream.java	/^    private static final String RCSID = "$Id: FCGIInputStream.java,v 1.4 2000\/03\/21 12:12:25 robs Exp $";$/;"	f	class:FCGIInputStream	file:
+RCSID	java/FCGIInterface.java	/^    private static final String RCSID = "$Id: FCGIInterface.java,v 1.4 2000\/03\/27 15:37:25 robs Exp $";$/;"	f	class:FCGIInterface	file:
+RCSID	java/FCGIMessage.java	/^    private static final String RCSID = "$Id: FCGIMessage.java,v 1.4 2000\/10\/02 15:09:07 robs Exp $";$/;"	f	class:FCGIMessage	file:
+RCSID	java/FCGIOutputStream.java	/^    private static final String RCSID = "$Id: FCGIOutputStream.java,v 1.3 2000\/03\/21 12:12:26 robs Exp $";$/;"	f	class:FCGIOutputStream	file:
+RCSID	java/FCGIRequest.java	/^    private static final String RCSID = "$Id: FCGIRequest.java,v 1.3 2000\/03\/21 12:12:26 robs Exp $";$/;"	f	class:FCGIRequest	file:
+READABLE_UNIX_FD_DROP_DEAD_TIMEVAL	include/fcgios.h	70;"	d
+RSC	cgi-fcgi/cgi-fcgi.mak	/^RSC=rc.exe$/;"	m
+RSC	examples/authorizer.mak	/^RSC=rc.exe$/;"	m
+RSC	examples/echo-cpp.mak	/^RSC=rc.exe$/;"	m
+RSC	examples/echo.mak	/^RSC=rc.exe$/;"	m
+RSC	examples/echox.mak	/^RSC=rc.exe$/;"	m
+RSC	examples/size.mak	/^RSC=rc.exe$/;"	m
+RSC	libfcgi/libfcgi.mak	/^RSC=rc.exe$/;"	m
+ReadParams	libfcgi/fcgiapp.c	/^static int ReadParams(Params *paramsPtr, FCGX_Stream *stream)$/;"	f	file:
+ReleaseLock	libfcgi/os_unix.c	/^static int ReleaseLock(int sock)$/;"	f	file:
+S1	doc/fcgi-devel-kit.htm	/^         <A NAME="S1">1. Introduction<\/A>$/;"	a
+S1	doc/fcgi-java.htm	/^         <A NAME="S1">1. Introduction<\/A>$/;"	a
+S1	doc/fcgi-perf.htm	/^         <A NAME="S1">1. Introduction<\/A>$/;"	a
+S1	doc/fcgi-spec.html	/^         <A NAME="S1">1. Introduction<\/A>$/;"	a
+S1	doc/fcgi-tcl.htm	/^         <A NAME="S1">1. Introduction<\/A>$/;"	a
+S2	doc/fcgi-devel-kit.htm	/^         <A NAME="S2">2. Getting started<\/A>$/;"	a
+S2	doc/fcgi-java.htm	/^         <A NAME="S2">2. Writing FastCGI applications in Java<\/A>$/;"	a
+S2	doc/fcgi-perf.htm	/^         <A NAME="S2">2. Performance Basics<\/A>$/;"	a
+S2	doc/fcgi-spec.html	/^         <A NAME="S2">2. Initial Process State<\/A>$/;"	a
+S2	doc/fcgi-tcl.htm	/^         <A NAME="S2">2. Recipe<\/A>$/;"	a
+S2.1	doc/fcgi-spec.html	/^         <A NAME="S2.1">2.1 Argument list<\/A>$/;"	a
+S2.2	doc/fcgi-spec.html	/^         <A NAME="S2.2">2.2 File descriptors<\/A>$/;"	a
+S2.3	doc/fcgi-spec.html	/^         <A NAME="S2.3">2.3 Environment variables<\/A>$/;"	a
+S2.4	doc/fcgi-spec.html	/^         <A NAME="S2.4">2.4 Other state<\/A>$/;"	a
+S3	doc/fcgi-devel-kit.htm	/^         <A NAME="S3">3. Writing applications<\/A>$/;"	a
+S3	doc/fcgi-java.htm	/^         <A NAME="S3">3. Standard I\/O and Application Libraries<\/A>$/;"	a
+S3	doc/fcgi-perf.htm	/^         <A NAME="S3">3. Caching<\/A>$/;"	a
+S3	doc/fcgi-spec.html	/^         <A NAME="S3">3. Protocol Basics<\/A>$/;"	a
+S3	doc/fcgi-tcl.htm	/^         <A NAME="S3">3. Recipe Explained<\/A>$/;"	a
+S3.1	doc/fcgi-devel-kit.htm	/^         <A NAME="S3.1">3.1 Using the <TT>fcgi_stdio<\/TT> library<\/A>$/;"	a
+S3.1	doc/fcgi-spec.html	/^         <A NAME="S3.1">3.1 Notation<\/A>$/;"	a
+S3.1.1	doc/fcgi-devel-kit.htm	/^         <A NAME="S3.1.1">The<\/A> corresponding FastCGI program is <TT>examples\/tiny-fcgi.c<\/TT>:$/;"	a
+S3.2	doc/fcgi-devel-kit.htm	/^         <A NAME="S3.2">3.2 Using the <TT>fcgiapp<\/TT> library<\/A>$/;"	a
+S3.2	doc/fcgi-spec.html	/^         <A NAME="S3.2">3.2 Accepting Transport Connections<\/A>$/;"	a
+S3.3	doc/fcgi-devel-kit.htm	/^         <A NAME="S3.3">3.3 Using Perl and Tcl<\/A>$/;"	a
+S3.3	doc/fcgi-spec.html	/^         <A NAME="S3.3">3.3 Records<\/A>$/;"	a
+S3.4	doc/fcgi-devel-kit.htm	/^         <A NAME="S3.4">3.4 Using Java<\/A>$/;"	a
+S3.4	doc/fcgi-spec.html	/^         <A NAME="S3.4">3.4 Name-Value Pairs<\/A>$/;"	a
+S3.5	doc/fcgi-spec.html	/^         <A NAME="S3.5">3.5 Closing Transport Connections<\/A>$/;"	a
+S4	doc/fcgi-devel-kit.htm	/^         <A NAME="S4">4. Running applications<\/A>$/;"	a
+S4	doc/fcgi-java.htm	/^         <A NAME="S4">4. Environment Variables<\/A>$/;"	a
+S4	doc/fcgi-java.htm	/^         <A NAME="S4">5. Further examples: EchoFCGI and Echo2FCGI<\/A>$/;"	a
+S4	doc/fcgi-perf.htm	/^         <A NAME="S4">4. Database Access<\/A>$/;"	a
+S4	doc/fcgi-spec.html	/^         <A NAME="S4">4. Management Record Types<\/A>$/;"	a
+S4	doc/fcgi-tcl.htm	/^         <A NAME="S4">4. Writing FastCGI applications in Tcl<\/A>$/;"	a
+S4.1	doc/fcgi-devel-kit.htm	/^         <A NAME="S4.1">4.1 Using a Web server that supports FastCGI<\/A>$/;"	a
+S4.1	doc/fcgi-spec.html	/^         <A NAME="S4.1">4.1 <TT>FCGI_GET_VALUES, FCGI_GET_VALUES_RESULT<\/TT><\/A>$/;"	a
+S4.2	doc/fcgi-devel-kit.htm	/^         <A NAME="S4.2">4.2 Using <TT>cgi-fcgi<\/TT> with any Web server<\/A>$/;"	a
+S4.2	doc/fcgi-spec.html	/^         <A NAME="S4.2">4.2 <TT>FCGI_UNKNOWN_TYPE<\/TT><\/A>$/;"	a
+S5	doc/fcgi-devel-kit.htm	/^         <A NAME="S5">5. Known problems<\/A>$/;"	a
+S5	doc/fcgi-perf.htm	/^         <A NAME="S5">5. A Performance Test<\/A>$/;"	a
+S5	doc/fcgi-spec.html	/^         <A NAME="S5">5. Application Record Types<\/A>$/;"	a
+S5.1	doc/fcgi-perf.htm	/^         <A NAME="S5.1">5.1 Application Scenario<\/A>$/;"	a
+S5.1	doc/fcgi-spec.html	/^         <A NAME="S5.1">5.1 <TT>FCGI_BEGIN_REQUEST<\/TT><\/A>$/;"	a
+S5.2	doc/fcgi-perf.htm	/^         <A NAME="S5.2">5.2 Application Design<\/A>$/;"	a
+S5.2	doc/fcgi-spec.html	/^         <A NAME="S5.2">5.2 Name-Value Pair Stream: <TT>FCGI_PARAMS<\/TT><\/A>$/;"	a
+S5.3	doc/fcgi-perf.htm	/^         <A NAME="S5.3">5.3 Test Conditions<\/A>$/;"	a
+S5.3	doc/fcgi-spec.html	/^         <A NAME="S5.3">5.3 Byte Streams: <TT>FCGI_STDIN<\/TT>, <TT>FCGI_DATA<\/TT>, <TT>FCGI_STDOUT<\/TT>,$/;"	a
+S5.4	doc/fcgi-perf.htm	/^         <A NAME="S5.4">5.4 Test Results and Discussion<\/A>$/;"	a
+S5.4	doc/fcgi-spec.html	/^         <A NAME="S5.4">5.4 <TT>FCGI_ABORT_REQUEST<\/TT><\/A>$/;"	a
+S5.5	doc/fcgi-spec.html	/^         <A NAME="S5.5">5.5 <TT>FCGI_END_REQUEST<\/TT><\/A>$/;"	a
+S6	doc/fcgi-devel-kit.htm	/^         <A NAME="S6">6. Getting support<\/A>$/;"	a
+S6	doc/fcgi-java.htm	/^         <A NAME="S6">6. FastCGI Java Classes<\/A>$/;"	a
+S6	doc/fcgi-perf.htm	/^         <A NAME="S6">6. Multi-threaded APIs<\/A>$/;"	a
+S6	doc/fcgi-spec.html	/^         <A NAME="S6">6. Roles<\/A>$/;"	a
+S6.1	doc/fcgi-spec.html	/^         <A NAME="S6.1">6.1 Role Protocols<\/A>$/;"	a
+S6.2	doc/fcgi-spec.html	/^         <A NAME="S6.2">6.2 Responder<\/A>$/;"	a
+S6.3	doc/fcgi-spec.html	/^         <A NAME="S6.3">6.3 Authorizer<\/A>$/;"	a
+S6.4	doc/fcgi-spec.html	/^         <A NAME="S6.4">6.4 Filter<\/A>$/;"	a
+S7	doc/fcgi-perf.htm	/^         <A NAME="S7">7. Conclusion<\/A>$/;"	a
+S7	doc/fcgi-spec.html	/^         <A NAME="S7">7. Errors<\/A>$/;"	a
+S8	doc/fcgi-spec.html	/^         <A NAME="S8">8. Types and Constants<\/A>$/;"	a
+S9	doc/fcgi-spec.html	/^         <A NAME="S9">9. References<\/A>$/;"	a
+SA	doc/fcgi-spec.html	/^         <A NAME="SA">A. Table: Properties of the record types<\/A>$/;"	a
+SB	doc/fcgi-spec.html	/^         <A NAME="SB">B. Typical Protocol Message Flow<\/A>$/;"	a
+SHUTDOWN_EVENT_NAME	libfcgi/os_win32.c	46;"	d	file:
+SKIP	libfcgi/fcgiapp.c	1436;"	d	file:
+SOURCE	cgi-fcgi/cgi-fcgi.mak	/^SOURCE="..\\cgi-fcgi\\cgi-fcgi.c"$/;"	m
+SOURCE	examples/authorizer.mak	/^SOURCE=..\\examples\\authorizer.c$/;"	m
+SOURCE	examples/echo-cpp.mak	/^SOURCE="..\\examples\\echo-cpp.cpp"$/;"	m
+SOURCE	examples/echo.mak	/^SOURCE=..\\examples\\echo.c$/;"	m
+SOURCE	examples/echox.mak	/^SOURCE="..\\examples\\echo-x.c"$/;"	m
+SOURCE	examples/size.mak	/^SOURCE=..\\examples\\size.c$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\fcgi_stdio.c$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\fcgiapp.c$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\fcgio.cpp$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\os_unix.c$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\os_win32.c$/;"	m
+SOURCE	libfcgi/libfcgi.mak	/^SOURCE=..\\libfcgi\\strerror.c$/;"	m
+STDC_HEADERS	fcgi_config.h	96;"	d
+STDC_HEADERS	include/fcgi_config_x86.h	35;"	d
+STDERR_FILENO	include/fcgios.h	81;"	d
+STDIN_FILENO	include/fcgios.h	73;"	d
+STDIN_MAX	examples/echo-cpp.cpp	/^static const unsigned long STDIN_MAX = 1000000;$/;"	v	file:
+STDOUT_FILENO	include/fcgios.h	77;"	d
+STREAM_RECORD	libfcgi/fcgiapp.c	1435;"	d	file:
+ScheduleIo	cgi-fcgi/cgi-fcgi.c	/^static void ScheduleIo(void)$/;"	f	file:
+SetError	libfcgi/fcgiapp.c	/^static void SetError(FCGX_Stream *stream, int FCGI_errno)$/;"	f	file:
+SetReaderType	libfcgi/fcgiapp.c	/^static FCGX_Stream *SetReaderType(FCGX_Stream *stream, int streamType)$/;"	f	file:
+ShutdownRequestThread	libfcgi/os_win32.c	/^static void ShutdownRequestThread(void * arg)$/;"	f	file:
+SockAddrUnion	libfcgi/os_unix.c	/^union SockAddrUnion {$/;"	u	file:
+StdinThread	libfcgi/os_win32.c	/^static void StdinThread(void * startup) $/;"	f	file:
+StringCopy	libfcgi/fcgiapp.c	/^static char *StringCopy(char *str)$/;"	f	file:
+THREAD_COUNT	examples/threaded.c	21;"	d	file:
+TRUE	include/fcgimisc.h	23;"	d
+USE_LOCKING	fcgi_config.h	99;"	d
+USE_LOCKING	include/fcgi_config_x86.h	36;"	d
+VERSION	fcgi_config.h	102;"	d
+WIN32_LEAN_AND_MEAN	include/fcgios.h	22;"	d
+WIN32_LEAN_AND_MEAN	libfcgi/os_win32.c	23;"	d	file:
+WIN32_OPEN_MAX	libfcgi/os_win32.c	37;"	d	file:
+WebServerReadHandler	cgi-fcgi/cgi-fcgi.c	/^static void WebServerReadHandler(ClientData dc, int bytesRead)$/;"	f	file:
+Win32FreeDescriptor	libfcgi/os_win32.c	/^static void Win32FreeDescriptor(int fd)$/;"	f	file:
+Win32NewDescriptor	libfcgi/os_win32.c	/^static int Win32NewDescriptor(FILE_TYPE type, int fd, int desiredFd)$/;"	f	file:
+WriteCloseRecords	libfcgi/fcgiapp.c	/^static void WriteCloseRecords(struct FCGX_Stream *stream)$/;"	f	file:
+WriteStdinEof	cgi-fcgi/cgi-fcgi.c	/^static void WriteStdinEof(void)$/;"	f	file:
+X_OK	include/fcgios.h	89;"	d
+_CLIENTDATA	include/fcgios.h	98;"	d
+_FASTCGI_H	include/fastcgi.h	16;"	d
+_FCGIAPP_H	include/fcgiapp.h	16;"	d
+_FCGIMISC_H	include/fcgimisc.h	16;"	d
+_FCGIOS_H	include/fcgios.h	19;"	d
+_FCGI_STDIO	include/fcgi_stdio.h	16;"	d
+_Ref352251764	doc/fastcgi-whitepaper/fastcgi.htm	/^         <A NAME="_Ref352251764">4. FastCGI Application Library<\/A>$/;"	a
+_Ref352404075	doc/fastcgi-whitepaper/fastcgi.htm	/^         <IMG ALT="error-file:TidyOut.log" SRC="img00002.gif"><A NAME="_Ref352404075">Figure 2<\/A>$/;"	a
+_Ref352404524	doc/fastcgi-whitepaper/fastcgi.htm	/^         <A NAME="_Ref352404524">Filter Role<\/A>$/;"	a
+_Ref352505891	doc/fastcgi-whitepaper/fastcgi.htm	/^         <IMG ALT="error-file:TidyOut.log" SRC="img00001.gif"><A NAME="_Ref352505891">Figure 1<\/A>$/;"	a
+_Ref352560526	doc/fastcgi-whitepaper/fastcgi.htm	/^         <IMG ALT="error-file:TidyOut.log" SRC="img00003.gif"><A NAME="_Ref352560526">Figure 3<\/A>$/;"	a
+_fcgi_sF	libfcgi/fcgi_stdio.c	/^FCGI_FILE _fcgi_sF[3];$/;"	v
+acceptCalled	java/FCGIInterface.java	/^    public static boolean acceptCalled = false;$/;"	f	class:FCGIInterface
+acceptCalled	libfcgi/fcgi_stdio.c	/^static int acceptCalled = FALSE;$/;"	v	file:
+acceptMutex	libfcgi/os_win32.c	/^static HANDLE acceptMutex = INVALID_HANDLE_VALUE;$/;"	v	file:
+acceptNamedPipe	libfcgi/os_win32.c	/^static int acceptNamedPipe()$/;"	f	file:
+acceptSocket	libfcgi/os_win32.c	/^static int acceptSocket(const char *webServerAddrs)$/;"	f	file:
+appServerSock	cgi-fcgi/cgi-fcgi.c	/^static int appServerSock = -1;  \/* Socket connected to FastCGI application,$/;"	v	file:
+appStatus	include/fcgiapp.h	/^    int appStatus;$/;"	m	struct:FCGX_Request
+appStatus	java/FCGIRequest.java	/^    public int      appStatus;$/;"	f	class:FCGIRequest
+appStatusB0	include/fastcgi.h	/^    unsigned char appStatusB0;$/;"	m	struct:__anon5
+appStatusB1	include/fastcgi.h	/^    unsigned char appStatusB1;$/;"	m	struct:__anon5
+appStatusB2	include/fastcgi.h	/^    unsigned char appStatusB2;$/;"	m	struct:__anon5
+appStatusB3	include/fastcgi.h	/^    unsigned char appStatusB3;$/;"	m	struct:__anon5
+asyncIoInUse	libfcgi/os_unix.c	/^static int asyncIoInUse = FALSE;$/;"	v	file:
+asyncIoTable	libfcgi/os_unix.c	/^static AioInfo *asyncIoTable = NULL;$/;"	v	file:
+asyncIoTableSize	libfcgi/os_unix.c	/^static int asyncIoTableSize = 16;$/;"	v	file:
+attach	libfcgi/fcgio.cpp	/^int fcgi_streambuf::attach(FCGX_Stream * fs)$/;"	f	class:fcgi_streambuf
+attach	libfcgi/fcgio.cpp	/^void fcgi_istream::attach(FCGX_Stream * fs)$/;"	f	class:fcgi_istream
+attach	libfcgi/fcgio.cpp	/^void fcgi_ostream::attach(FCGX_Stream * fs)$/;"	f	class:fcgi_ostream
+available	java/FCGIInputStream.java	/^    public int available() throws IOException {$/;"	m	class:FCGIInputStream
+bindPathPrefix	libfcgi/os_win32.c	/^static const char *bindPathPrefix = "\\\\\\\\.\\\\pipe\\\\FastCGI\\\\";$/;"	v	file:
+body	include/fastcgi.h	/^    FCGI_BeginRequestBody body;$/;"	m	struct:__anon4
+body	include/fastcgi.h	/^    FCGI_EndRequestBody body;$/;"	m	struct:__anon6
+body	include/fastcgi.h	/^    FCGI_UnknownTypeBody body;$/;"	m	struct:__anon8
+br_flags	java/FCGIMessage.java	/^    private int  br_flags;$/;"	f	class:FCGIMessage	file:
+br_role	java/FCGIMessage.java	/^    private int  br_role;      \/\/ 2 bytes$/;"	f	class:FCGIMessage	file:
+buf	include/fcgio.h	/^    char_type * buf;$/;"	m	class:fcgi_streambuf
+buf	libfcgi/os_unix.c	/^    void *buf;$/;"	m	struct:__anon10	file:
+buff	cgi-fcgi/cgi-fcgi.c	/^    char buff[BUFFLEN];$/;"	m	struct:__anon1	file:
+buff	java/FCGIInputStream.java	/^    public byte buff[];$/;"	f	class:FCGIInputStream
+buff	java/FCGIOutputStream.java	/^    public byte buff[];$/;"	f	class:FCGIOutputStream
+buff	libfcgi/fcgiapp.c	/^    unsigned char *buff;      \/* buffer after alignment *\/$/;"	m	struct:FCGX_Stream_Data	file:
+buffLen	java/FCGIInputStream.java	/^    public int buffLen;$/;"	f	class:FCGIInputStream
+buffLen	java/FCGIOutputStream.java	/^    public int buffLen;$/;"	f	class:FCGIOutputStream
+buffStop	java/FCGIInputStream.java	/^    public int buffStop;$/;"	f	class:FCGIInputStream
+buffStop	java/FCGIOutputStream.java	/^    public int buffStop;$/;"	f	class:FCGIOutputStream
+buffStop	libfcgi/fcgiapp.c	/^    unsigned char *buffStop;  \/* reader: last valid byte + 1 of entire buffer.$/;"	m	struct:FCGX_Stream_Data	file:
+bufflen	libfcgi/fcgiapp.c	/^    int bufflen;              \/* number of bytes buff can store *\/$/;"	m	struct:FCGX_Stream_Data	file:
+bufsize	include/fcgio.h	/^    std::streamsize bufsize;$/;"	m	class:fcgi_streambuf
+bytesToRead	cgi-fcgi/cgi-fcgi.c	/^static int bytesToRead;    \/* number of bytes to read from Web Server *\/$/;"	v	file:
+char_type	include/fcgio.h	/^typedef char char_type;$/;"	t
+clearException	java/FCGIInputStream.java	/^    public void clearException() {$/;"	m	class:FCGIInputStream
+clearException	java/FCGIOutputStream.java	/^    public void clearException() {$/;"	m	class:FCGIOutputStream
+clearFCGIError	java/FCGIInputStream.java	/^    public void clearFCGIError() {$/;"	m	class:FCGIInputStream
+clearFCGIError	java/FCGIOutputStream.java	/^    public void clearFCGIError() {$/;"	m	class:FCGIOutputStream
+clearerr	include/fcgi_stdio.h	223;"	d
+clearerr	include/fcgi_stdio.h	224;"	d
+clientData	libfcgi/os_unix.c	/^    ClientData clientData;	    \/* caller private data *\/$/;"	m	struct:__anon10	file:
+clientData	libfcgi/os_win32.c	/^    ClientData clientData;	\/* callback argument *\/$/;"	m	struct:OVERLAPPED_REQUEST	file:
+clientData1	libfcgi/os_win32.c	/^    ClientData clientData1;	\/* additional clientData *\/$/;"	m	struct:OVERLAPPED_REQUEST	file:
+close	java/FCGIInputStream.java	/^    public void close() throws IOException{$/;"	m	class:FCGIInputStream
+close	java/FCGIOutputStream.java	/^    public void  close() throws IOException {$/;"	m	class:FCGIOutputStream
+com.fastcgi	java/FCGIGlobalDefs.java	/^package com.fastcgi;$/;"	p
+com.fastcgi	java/FCGIInputStream.java	/^package com.fastcgi;$/;"	p
+com.fastcgi	java/FCGIInterface.java	/^package com.fastcgi;$/;"	p
+com.fastcgi	java/FCGIMessage.java	/^package com.fastcgi;$/;"	p
+com.fastcgi	java/FCGIOutputStream.java	/^package com.fastcgi;$/;"	p
+com.fastcgi	java/FCGIRequest.java	/^package com.fastcgi;$/;"	p
+const	include/fcgi_config_x86.h	37;"	d
+contentLen	cgi-fcgi/cgi-fcgi.c	/^static int contentLen;     \/* If headerLen == sizeof(header), contentLen$/;"	v	file:
+contentLen	java/FCGIInputStream.java	/^    public int contentLen;$/;"	f	class:FCGIInputStream
+contentLen	libfcgi/fcgiapp.c	/^    int contentLen;           \/* reader: bytes of unread content *\/$/;"	m	struct:FCGX_Stream_Data	file:
+contentLengthB0	include/fastcgi.h	/^    unsigned char contentLengthB0;$/;"	m	struct:__anon2
+contentLengthB1	include/fastcgi.h	/^    unsigned char contentLengthB1;$/;"	m	struct:__anon2
+counts	examples/threaded.c	/^static int counts[THREAD_COUNT];$/;"	v	file:
+cur	libfcgi/fcgiapp.c	/^    char **cur;		    \/* current item in vec; *cur == NULL *\/$/;"	m	struct:Params	file:
+data	include/fcgiapp.h	/^    void *data;$/;"	m	struct:FCGX_Stream
+def_FCGIAbortRequest	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIAbortRequest    = 2;$/;"	f	class:FCGIGlobalDefs
+def_FCGIAuthorizer	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIAuthorizer  = 2;$/;"	f	class:FCGIGlobalDefs
+def_FCGIBeginRecord	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIBeginRecord = 2;$/;"	f	class:FCGIGlobalDefs
+def_FCGIBeginReqBodyLen	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIBeginReqBodyLen = 8;$/;"	f	class:FCGIGlobalDefs
+def_FCGIBeginRequest	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIBeginRequest    = 1;$/;"	f	class:FCGIGlobalDefs
+def_FCGICallSeqError	java/FCGIGlobalDefs.java	/^    public static final int def_FCGICallSeqError    = -5;$/;"	f	class:FCGIGlobalDefs
+def_FCGICantMpxConn	java/FCGIGlobalDefs.java	/^    public static final int def_FCGICantMpxConn = 1;$/;"	f	class:FCGIGlobalDefs
+def_FCGIData	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIData        = 8;$/;"	f	class:FCGIGlobalDefs
+def_FCGIEndReqBodyLen	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIEndReqBodyLen   = 8;$/;"	f	class:FCGIGlobalDefs
+def_FCGIEndRequest	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIEndRequest  = 3;$/;"	f	class:FCGIGlobalDefs
+def_FCGIFilter	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIFilter      = 3;$/;"	f	class:FCGIGlobalDefs
+def_FCGIGetValues	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIGetValues   = 9;$/;"	f	class:FCGIGlobalDefs
+def_FCGIGetValuesResult	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIGetValuesResult = 10;$/;"	f	class:FCGIGlobalDefs
+def_FCGIHeaderLen	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIHeaderLen   = 8;$/;"	f	class:FCGIGlobalDefs
+def_FCGIKeepConn	java/FCGIGlobalDefs.java	/^    public static int def_FCGIKeepConn      = 1;$/;"	f	class:FCGIGlobalDefs
+def_FCGIMaxConns	java/FCGIGlobalDefs.java	/^    public static final String def_FCGIMaxConns = "FCGI_MAX_CONNS";$/;"	f	class:FCGIGlobalDefs
+def_FCGIMaxLen	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIMaxLen = 0xffff;$/;"	f	class:FCGIGlobalDefs
+def_FCGIMaxReqs	java/FCGIGlobalDefs.java	/^    public static final String def_FCGIMaxReqs  = "FCGI_MAX_REQS";$/;"	f	class:FCGIGlobalDefs
+def_FCGIMaxType	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIMaxType = def_FCGIUnknownType;$/;"	f	class:FCGIGlobalDefs
+def_FCGIMgmtRecord	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIMgmtRecord = 3;$/;"	f	class:FCGIGlobalDefs
+def_FCGIMpxsConns	java/FCGIGlobalDefs.java	/^    public static final String def_FCGIMpxsConns    = "FCGI_MPXS_CONNS";$/;"	f	class:FCGIGlobalDefs
+def_FCGINullRequestID	java/FCGIGlobalDefs.java	/^    public static final int def_FCGINullRequestID   = 0;$/;"	f	class:FCGIGlobalDefs
+def_FCGIOverload	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIOverload    = 2;$/;"	f	class:FCGIGlobalDefs
+def_FCGIParams	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIParams      = 4;$/;"	f	class:FCGIGlobalDefs
+def_FCGIParamsError	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIParamsError = -4;$/;"	f	class:FCGIGlobalDefs
+def_FCGIProtocolError	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIProtocolError   = -3;$/;"	f	class:FCGIGlobalDefs
+def_FCGIRequestComplete	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIRequestComplete = 0;$/;"	f	class:FCGIGlobalDefs
+def_FCGIResponder	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIResponder   = 1;$/;"	f	class:FCGIGlobalDefs
+def_FCGISkip	java/FCGIGlobalDefs.java	/^    public static final int def_FCGISkip        = 1;$/;"	f	class:FCGIGlobalDefs
+def_FCGIStderr	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIStderr      = 7;$/;"	f	class:FCGIGlobalDefs
+def_FCGIStdin	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIStdin       = 5;$/;"	f	class:FCGIGlobalDefs
+def_FCGIStdout	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIStdout      = 6;$/;"	f	class:FCGIGlobalDefs
+def_FCGIStreamRecord	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIStreamRecord    = 0;$/;"	f	class:FCGIGlobalDefs
+def_FCGIUnknownBodyTypeBodyLen	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIUnknownBodyTypeBodyLen = 8;$/;"	f	class:FCGIGlobalDefs
+def_FCGIUnknownRole	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIUnknownRole = 3;$/;"	f	class:FCGIGlobalDefs
+def_FCGIUnknownType	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIUnknownType     = 11;$/;"	f	class:FCGIGlobalDefs
+def_FCGIUnsupportedVersion	java/FCGIGlobalDefs.java	/^    public static final int def_FCGIUnsupportedVersion = -2;$/;"	f	class:FCGIGlobalDefs
+def_FCGIVersion1	java/FCGIGlobalDefs.java	/^    public static int def_FCGIVersion1      = 1;$/;"	f	class:FCGIGlobalDefs
+detached	include/fcgiapp.h	/^    int detached;$/;"	m	struct:FCGX_Request
+dld_link	configure	/^dld_link ();$/;"	f
+dlopen	configure	/^dlopen ();$/;"	f
+doit	examples/threaded.c	/^static void *doit(void *a)$/;"	f	file:
+empty	java/FCGIOutputStream.java	/^    public void empty(boolean doClose) throws IOException {$/;"	m	class:FCGIOutputStream
+emptyBuffProc	include/fcgiapp.h	/^    void (*emptyBuffProc) (struct FCGX_Stream *stream, int doClose);$/;"	m	struct:FCGX_Stream
+envp	include/fcgiapp.h	/^    char **envp;$/;"	m	struct:FCGX_Request
+eorStop	java/FCGIInputStream.java	/^    public boolean eorStop;$/;"	f	class:FCGIInputStream
+eorStop	libfcgi/fcgiapp.c	/^    int eorStop;              \/* reader: stop stream at end-of-record *\/$/;"	m	struct:FCGX_Stream_Data	file:
+erBody	cgi-fcgi/cgi-fcgi.c	/^static FCGI_EndRequestBody erBody;$/;"	v	file:
+err	include/fcgiapp.h	/^    FCGX_Stream *err;$/;"	m	struct:FCGX_Request
+errStream	java/FCGIRequest.java	/^    public FCGIOutputStream errStream;$/;"	f	class:FCGIRequest
+errex	java/FCGIInputStream.java	/^    private Exception errex;$/;"	f	class:FCGIInputStream	file:
+errex	java/FCGIOutputStream.java	/^    private Exception errex;$/;"	f	class:FCGIOutputStream	file:
+errno	java/FCGIInputStream.java	/^    private int errno;$/;"	f	class:FCGIInputStream	file:
+errno	java/FCGIOutputStream.java	/^    private int errno;$/;"	f	class:FCGIOutputStream	file:
+etFCGIError	java/FCGIOutputStream.java	/^    public int etFCGIError() {$/;"	m	class:FCGIOutputStream
+exit	cgi-fcgi/cgi-fcgi.c	198;"	d	file:
+exit	cgi-fcgi/cgi-fcgi.c	199;"	d	file:
+exitStatus	cgi-fcgi/cgi-fcgi.c	/^static int exitStatus = 0;$/;"	v	file:
+exitStatusSet	cgi-fcgi/cgi-fcgi.c	/^static int exitStatusSet = FALSE;$/;"	v	file:
+failureCount	examples/log-dump.c	/^static int failureCount = 0;$/;"	v	file:
+fcgiReadPending	cgi-fcgi/cgi-fcgi.c	/^static int fcgiReadPending = 0;$/;"	v	file:
+fcgiWritePending	cgi-fcgi/cgi-fcgi.c	/^static int fcgiWritePending = 0;$/;"	v	file:
+fcgi_istream	include/fcgio.h	/^class DLLAPI fcgi_istream : public std::istream$/;"	c
+fcgi_istream	libfcgi/fcgio.cpp	/^fcgi_istream::fcgi_istream(FCGX_Stream * fs) :$/;"	f	class:fcgi_istream
+fcgi_ostream	include/fcgio.h	/^class DLLAPI fcgi_ostream : public std::ostream$/;"	c
+fcgi_ostream	libfcgi/fcgio.cpp	/^fcgi_ostream::fcgi_ostream(FCGX_Stream * fs) :$/;"	f	class:fcgi_ostream
+fcgi_streambuf	include/fcgio.h	/^class DLLAPI fcgi_streambuf : public std::streambuf$/;"	c
+fcgi_streambuf	libfcgi/fcgio.cpp	/^fcgi_streambuf::fcgi_streambuf(FCGX_Stream * fs) $/;"	f	class:fcgi_streambuf
+fcgi_streambuf	libfcgi/fcgio.cpp	/^fcgi_streambuf::fcgi_streambuf(FCGX_Stream * fs, char * b, int bs)$/;"	f	class:fcgi_streambuf
+fcgi_streambuf	libfcgi/fcgio.cpp	/^fcgi_streambuf::fcgi_streambuf(char_type * b, streamsize bs)$/;"	f	class:fcgi_streambuf
+fcgi_strmbuf	include/fcgio.h	/^    fcgi_streambuf fcgi_strmbuf;$/;"	m	class:fcgi_istream
+fcgi_strmbuf	include/fcgio.h	/^    fcgi_streambuf fcgi_strmbuf;$/;"	m	class:fcgi_ostream
+fcgx	include/fcgio.h	/^    FCGX_Stream * fcgx;$/;"	m	class:fcgi_streambuf
+fcgx_stream	include/fcgi_stdio.h	/^    FCGX_Stream *fcgx_stream;$/;"	m	struct:__anon9
+fclose	include/fcgi_stdio.h	155;"	d
+fclose	include/fcgi_stdio.h	156;"	d
+fd	libfcgi/os_unix.c	/^    int fd;$/;"	m	struct:__anon10	file:
+fdTable	libfcgi/os_win32.c	/^static struct FD_TABLE fdTable[WIN32_OPEN_MAX];$/;"	v	typeref:struct:FD_TABLE	file:
+fdTableCritical	libfcgi/os_win32.c	/^static CRITICAL_SECTION  fdTableCritical;$/;"	v	file:
+fdopen	include/fcgi_stdio.h	231;"	d
+fdopen	include/fcgi_stdio.h	232;"	d
+feof	include/fcgi_stdio.h	219;"	d
+feof	include/fcgi_stdio.h	220;"	d
+ferror	include/fcgi_stdio.h	221;"	d
+ferror	include/fcgi_stdio.h	222;"	d
+fflush	include/fcgi_stdio.h	157;"	d
+fflush	include/fcgi_stdio.h	158;"	d
+fgetc	include/fcgi_stdio.h	178;"	d
+fgetc	include/fcgi_stdio.h	179;"	d
+fgetpos	include/fcgi_stdio.h	173;"	d
+fgetpos	include/fcgi_stdio.h	174;"	d
+fgets	include/fcgi_stdio.h	187;"	d
+fgets	include/fcgi_stdio.h	188;"	d
+fid	libfcgi/os_win32.c	/^    DESCRIPTOR fid;$/;"	m	struct:FD_TABLE	file:
+fileHandle	libfcgi/os_win32.c	/^    HANDLE fileHandle;$/;"	m	union:__anon12	file:
+fileno	include/fcgi_stdio.h	229;"	d
+fileno	include/fcgi_stdio.h	230;"	d
+fill	java/FCGIInputStream.java	/^    public void  fill() throws IOException {$/;"	m	class:FCGIInputStream
+fillBuffProc	include/fcgiapp.h	/^    void (*fillBuffProc) (struct FCGX_Stream *stream);$/;"	m	struct:FCGX_Stream
+flags	include/fastcgi.h	/^    unsigned char flags;$/;"	m	struct:__anon3
+flags	include/fcgiapp.h	/^    int flags;$/;"	m	struct:FCGX_Request
+flush	java/FCGIOutputStream.java	/^    public void flush() throws IOException {$/;"	m	class:FCGIOutputStream
+fopen	include/fcgi_stdio.h	153;"	d
+fopen	include/fcgi_stdio.h	154;"	d
+fprintf	include/fcgi_stdio.h	204;"	d
+fprintf	include/fcgi_stdio.h	205;"	d
+fputc	include/fcgi_stdio.h	192;"	d
+fputc	include/fcgi_stdio.h	193;"	d
+fputs	include/fcgi_stdio.h	199;"	d
+fputs	include/fcgi_stdio.h	200;"	d
+fread	include/fcgi_stdio.h	214;"	d
+fread	include/fcgi_stdio.h	215;"	d
+freopen	include/fcgi_stdio.h	159;"	d
+freopen	include/fcgi_stdio.h	160;"	d
+fromAS	cgi-fcgi/cgi-fcgi.c	/^static Buffer fromAS;      \/* Bytes read from the FCGI application server. *\/$/;"	v	file:
+fromWS	cgi-fcgi/cgi-fcgi.c	/^static Buffer fromWS;   \/* Buffer for data read from Web server$/;"	v	file:
+fseek	include/fcgi_stdio.h	167;"	d
+fseek	include/fcgi_stdio.h	168;"	d
+fsetpos	include/fcgi_stdio.h	175;"	d
+fsetpos	include/fcgi_stdio.h	176;"	d
+ftell	include/fcgi_stdio.h	169;"	d
+ftell	include/fcgi_stdio.h	170;"	d
+fwrite	include/fcgi_stdio.h	216;"	d
+fwrite	include/fcgi_stdio.h	217;"	d
+getException	java/FCGIInputStream.java	/^    public Exception getException() {$/;"	m	class:FCGIInputStream
+getException	java/FCGIOutputStream.java	/^    public Exception getException() {$/;"	m	class:FCGIOutputStream
+getFCGIError	java/FCGIInputStream.java	/^    public int getFCGIError() {$/;"	m	class:FCGIInputStream
+getPort	libfcgi/os_win32.c	/^static short getPort(const char * bindPath)$/;"	f	file:
+getc	include/fcgi_stdio.h	180;"	d
+getc	include/fcgi_stdio.h	181;"	d
+getchar	include/fcgi_stdio.h	182;"	d
+getchar	include/fcgi_stdio.h	183;"	d
+gethostbyname	configure	/^gethostbyname ();$/;"	f
+gets	include/fcgi_stdio.h	189;"	d
+gets	include/fcgi_stdio.h	190;"	d
+gstdin	examples/echo-cpp.cpp	/^static long gstdin(FCGX_Request * request, char ** content)$/;"	f	file:
+hIoCompPort	libfcgi/os_win32.c	/^static HANDLE hIoCompPort = INVALID_HANDLE_VALUE;$/;"	v	file:
+hListen	libfcgi/os_win32.c	/^static HANDLE hListen = INVALID_HANDLE_VALUE;$/;"	v	file:
+hMapMutex	libfcgi/os_win32.c	/^    HANDLE  hMapMutex;		\/* mutex handle for multi-proc offset update *\/$/;"	m	struct:FD_TABLE	file:
+hStdinCompPort	libfcgi/os_win32.c	/^static HANDLE hStdinCompPort = INVALID_HANDLE_VALUE;$/;"	v	file:
+hStdinThread	libfcgi/os_win32.c	/^static HANDLE hStdinThread = INVALID_HANDLE_VALUE;$/;"	v	file:
+h_contentLength	java/FCGIMessage.java	/^    private int  h_contentLength;   \/\/ 2 bytes$/;"	f	class:FCGIMessage	file:
+h_paddingLength	java/FCGIMessage.java	/^    private int  h_paddingLength;$/;"	f	class:FCGIMessage	file:
+h_requestID	java/FCGIMessage.java	/^    private int  h_requestID;       \/\/ 2 bytes$/;"	f	class:FCGIMessage	file:
+h_type	java/FCGIMessage.java	/^    private int  h_type;$/;"	f	class:FCGIMessage	file:
+h_version	java/FCGIMessage.java	/^    private int  h_version;$/;"	f	class:FCGIMessage	file:
+header	cgi-fcgi/cgi-fcgi.c	/^static FCGI_Header header; \/* Header of the current record.  Is global$/;"	v	file:
+header	include/fastcgi.h	/^    FCGI_Header header;$/;"	m	struct:__anon4
+header	include/fastcgi.h	/^    FCGI_Header header;$/;"	m	struct:__anon6
+header	include/fastcgi.h	/^    FCGI_Header header;$/;"	m	struct:__anon8
+headerLen	cgi-fcgi/cgi-fcgi.c	/^static int headerLen = 0;  \/* Number of valid bytes contained in header.$/;"	v	file:
+in	include/fcgiapp.h	/^    FCGX_Stream *in;$/;"	m	struct:FCGX_Request
+in	java/FCGIInputStream.java	/^    public InputStream in;$/;"	f	class:FCGIInputStream
+in	java/FCGIMessage.java	/^    private FCGIInputStream in;$/;"	f	class:FCGIMessage	file:
+inStream	java/FCGIRequest.java	/^    public FCGIInputStream  inStream;$/;"	f	class:FCGIRequest
+inUse	libfcgi/os_unix.c	/^    int inUse;$/;"	m	struct:__anon10	file:
+inetVariant	libfcgi/os_unix.c	/^    struct  sockaddr_in	inetVariant;$/;"	m	union:SockAddrUnion	typeref:struct:SockAddrUnion::sockaddr_in	file:
+init	libfcgi/fcgio.cpp	/^void fcgi_streambuf::init(FCGX_Stream * fs, char_type * b, streamsize bs)$/;"	f	class:fcgi_streambuf
+inline	include/fcgi_config_x86.h	38;"	d
+installSignalHandler	libfcgi/os_unix.c	/^static void installSignalHandler(int signo, const struct sigaction * act, int force)$/;"	f	file:
+instance	libfcgi/os_win32.c	/^    unsigned long instance;	\/* file instance (won't match after a close) *\/$/;"	m	struct:OVERLAPPED_REQUEST	file:
+instance	libfcgi/os_win32.c	/^    unsigned long instance;$/;"	m	struct:FD_TABLE	file:
+ipcFd	include/fcgiapp.h	/^    int ipcFd;               \/* < 0 means no connection *\/$/;"	m	struct:FCGX_Request
+isAddrOK	libfcgi/os_win32.c	/^static int isAddrOK(struct sockaddr_in * inet_sockaddr, const char * okAddrs)$/;"	f	file:
+isAddrOKCallback	libfcgi/os_win32.c	/^static int CALLBACK isAddrOKCallback(LPWSABUF  lpCallerId,$/;"	f	file:
+isAnythingWritten	java/FCGIOutputStream.java	/^    public boolean isAnythingWritten;$/;"	f	class:FCGIOutputStream
+isAnythingWritten	libfcgi/fcgiapp.c	/^    int isAnythingWritten;    \/* writer: data has been written to ipcFd *\/$/;"	m	struct:FCGX_Stream_Data	file:
+isBeginProcessed	include/fcgiapp.h	/^    int isBeginProcessed;     \/* FCGI_BEGIN_REQUEST seen *\/$/;"	m	struct:FCGX_Request
+isBeginProcessed	java/FCGIRequest.java	/^    public boolean      isBeginProcessed;$/;"	f	class:FCGIRequest
+isCGI	libfcgi/fcgi_stdio.c	/^static int isCGI = FALSE;$/;"	v	file:
+isClosed	include/fcgiapp.h	/^    int isClosed;$/;"	m	struct:FCGX_Stream
+isClosed	java/FCGIInputStream.java	/^    public boolean isClosed;$/;"	f	class:FCGIInputStream
+isClosed	java/FCGIOutputStream.java	/^    public boolean isClosed;$/;"	f	class:FCGIOutputStream
+isFCGI	java/FCGIInterface.java	/^    public static boolean isFCGI = true;$/;"	f	class:FCGIInterface
+isFastCGI	libfcgi/fcgiapp.c	/^static int isFastCGI = -1;$/;"	v	file:
+isReader	include/fcgiapp.h	/^    int isReader;$/;"	m	struct:FCGX_Stream
+is_af_unix_keeper	libfcgi/os_unix.c	/^static int is_af_unix_keeper(const int fd)$/;"	f	file:
+is_reasonable_accept_errno	libfcgi/os_unix.c	/^static int is_reasonable_accept_errno (const int error)$/;"	f	file:
+keepConnection	include/fcgiapp.h	/^    int keepConnection;       \/* don't close ipcFd at end of request *\/$/;"	m	struct:FCGX_Request
+keepConnection	java/FCGIRequest.java	/^    public boolean      keepConnection;$/;"	f	class:FCGIRequest
+len	libfcgi/os_unix.c	/^    int len;$/;"	m	struct:__anon10	file:
+length	libfcgi/fcgiapp.c	/^    int length;		    \/* number of string vec can hold *\/$/;"	m	struct:Params	file:
+libInitialized	libfcgi/fcgiapp.c	/^static int libInitialized = 0;$/;"	v	file:
+libInitialized	libfcgi/os_unix.c	/^static int libInitialized = FALSE;$/;"	v	file:
+libInitialized	libfcgi/os_win32.c	/^static BOOLEAN libInitialized = FALSE;$/;"	v	file:
+listenType	libfcgi/os_win32.c	/^static FILE_TYPE listenType = FD_UNUSED;$/;"	v	file:
+listen_sock	include/fcgiapp.h	/^    int listen_sock;$/;"	m	struct:FCGX_Request
+mBuff	libfcgi/fcgiapp.c	/^    unsigned char *mBuff;     \/* buffer as returned by Malloc *\/$/;"	m	struct:FCGX_Stream_Data	file:
+main	cgi-fcgi/cgi-fcgi.c	/^int main(int argc, char **argv)$/;"	f
+main	config.guess	/^		main()$/;"	f
+main	config.guess	/^	main ()$/;"	f
+main	config.guess	/^main ()$/;"	f
+main	examples/authorizer.c	/^int main(void)$/;"	f
+main	examples/echo-cpp.cpp	/^int main (void)$/;"	f
+main	examples/echo-x.c	/^int main ()$/;"	f
+main	examples/echo.c	/^int main ()$/;"	f
+main	examples/log-dump.c	/^int main(void)$/;"	f
+main	examples/size.c	/^int main(void)$/;"	f
+main	examples/threaded.c	/^int main(void)$/;"	f
+makeEndrequestBody	java/FCGIMessage.java	/^    public byte[] makeEndrequestBody(int appStatus,int protocolStatus){$/;"	m	class:FCGIMessage
+makeHeader	java/FCGIMessage.java	/^    public byte[] makeHeader(int type,$/;"	m	class:FCGIMessage
+makeNameVal	java/FCGIMessage.java	/^    void makeNameVal(String name, String value, byte[] dest, int pos) {$/;"	m	class:FCGIMessage
+makeUnknownTypeBodyBody	java/FCGIMessage.java	/^    public byte[] makeUnknownTypeBodyBody(int type){$/;"	m	class:FCGIMessage
+max	include/fcgimisc.h	31;"	d
+maxFd	libfcgi/os_unix.c	/^static int volatile maxFd = -1;$/;"	v	file:
+min	include/fcgimisc.h	27;"	d
+nWriters	include/fcgiapp.h	/^    int nWriters;             \/* number of open writers (0..2) *\/$/;"	m	struct:FCGX_Request
+next	cgi-fcgi/cgi-fcgi.c	/^    char *next;$/;"	m	struct:__anon1	file:
+numRdPosted	libfcgi/os_unix.c	/^static int numRdPosted = 0;$/;"	v	file:
+numWrPosted	libfcgi/os_unix.c	/^static int numWrPosted = 0;$/;"	v	file:
+numWriters	java/FCGIRequest.java	/^    public int      numWriters;$/;"	f	class:FCGIRequest
+offset	libfcgi/os_unix.c	/^    int offset;$/;"	m	struct:__anon10	file:
+offset	libfcgi/os_win32.c	/^    int offset;			\/* only valid for async file writes *\/$/;"	m	struct:FD_TABLE	file:
+offsetHighPtr	libfcgi/os_win32.c	/^    LPDWORD offsetHighPtr;	\/* pointers to offset high and low words *\/$/;"	m	struct:FD_TABLE	file:
+offsetLowPtr	libfcgi/os_win32.c	/^    LPDWORD offsetLowPtr;	\/* only valid for async file writes (logs) *\/$/;"	m	struct:FD_TABLE	file:
+out	include/fcgiapp.h	/^    FCGX_Stream *out;$/;"	m	struct:FCGX_Request
+out	java/FCGIOutputStream.java	/^    public FileOutputStream out;$/;"	f	class:FCGIOutputStream
+outStream	java/FCGIRequest.java	/^    public FCGIOutputStream outStream;$/;"	f	class:FCGIRequest
+ovList	libfcgi/os_win32.c	/^    LPVOID  ovList;		\/* List of associated OVERLAPPED_REQUESTs *\/$/;"	m	struct:FD_TABLE	file:
+overflow	libfcgi/fcgio.cpp	/^int fcgi_streambuf::overflow(int c)$/;"	f	class:fcgi_streambuf
+overlapped	libfcgi/os_win32.c	/^    OVERLAPPED overlapped;$/;"	m	struct:OVERLAPPED_REQUEST	file:
+paddingLen	cgi-fcgi/cgi-fcgi.c	/^static int paddingLen;     \/* If headerLen == sizeof(header), paddingLen$/;"	v	file:
+paddingLen	java/FCGIInputStream.java	/^    public int paddingLen;$/;"	f	class:FCGIInputStream
+paddingLen	libfcgi/fcgiapp.c	/^    int paddingLen;           \/* reader: bytes of unread padding *\/$/;"	m	struct:FCGX_Stream_Data	file:
+paddingLength	include/fastcgi.h	/^    unsigned char paddingLength;$/;"	m	struct:__anon2
+params	java/FCGIRequest.java	/^    public Properties   params;$/;"	f	class:FCGIRequest
+paramsPtr	include/fcgiapp.h	/^    struct Params *paramsPtr;$/;"	m	struct:FCGX_Request	typeref:struct:FCGX_Request::Params
+path	libfcgi/os_win32.c	/^    char *path;$/;"	m	struct:FD_TABLE	file:
+pclose	include/fcgi_stdio.h	235;"	d
+pclose	include/fcgi_stdio.h	236;"	d
+pclose	libfcgi/fcgi_stdio.c	58;"	d	file:
+penv	examples/echo-cpp.cpp	/^static void penv(const char * const * envp)$/;"	f	file:
+perror	include/fcgi_stdio.h	150;"	d
+perror	include/fcgi_stdio.h	151;"	d
+popen	include/fcgi_stdio.h	233;"	d
+popen	include/fcgi_stdio.h	234;"	d
+popen	libfcgi/fcgi_stdio.c	57;"	d	file:
+printLastError	libfcgi/os_win32.c	/^static void printLastError(const char * text)$/;"	f	file:
+printf	include/fcgi_stdio.h	206;"	d
+printf	include/fcgi_stdio.h	207;"	d
+procPtr	libfcgi/os_unix.c	/^    OS_AsyncProc procPtr;	    \/* callout completion procedure *\/$/;"	m	struct:__anon10	file:
+procPtr	libfcgi/os_win32.c	/^    OS_AsyncProc procPtr;	\/* callback routine *\/$/;"	m	struct:OVERLAPPED_REQUEST	file:
+processBeginRecord	java/FCGIMessage.java	/^    public int processBeginRecord(int requestID) throws IOException {$/;"	m	class:FCGIMessage
+processHeader	java/FCGIMessage.java	/^    public int processHeader(byte[] hdr) throws IOException{$/;"	m	class:FCGIMessage
+processHeaderBytes	java/FCGIMessage.java	/^    private void processHeaderBytes(byte[] hdrBuf){$/;"	m	class:FCGIMessage	file:
+processManagementRecord	java/FCGIMessage.java	/^    public int processManagementRecord(int type) throws IOException {$/;"	m	class:FCGIMessage
+protocolStatus	include/fastcgi.h	/^    unsigned char protocolStatus;$/;"	m	struct:__anon5
+pthread_join	configure	/^pthread_join ();$/;"	f
+putc	include/fcgi_stdio.h	194;"	d
+putc	include/fcgi_stdio.h	195;"	d
+putchar	include/fcgi_stdio.h	196;"	d
+putchar	include/fcgi_stdio.h	197;"	d
+puts	include/fcgi_stdio.h	201;"	d
+puts	include/fcgi_stdio.h	202;"	d
+rawWrite	java/FCGIOutputStream.java	/^    public boolean rawWrite;$/;"	f	class:FCGIOutputStream
+rawWrite	libfcgi/fcgiapp.c	/^    int rawWrite;             \/* writer: write data without stream headers *\/$/;"	m	struct:FCGX_Stream_Data	file:
+rcsid	cgi-fcgi/cgi-fcgi.c	/^static const char rcsid[] = "$Id: cgi-fcgi.c,v 1.16 2003\/06\/22 02:02:33 robs Exp $";$/;"	v	file:
+rcsid	examples/echo-x.c	/^static const char rcsid[] = "$Id: echo-x.c,v 1.1 2001\/06\/19 15:06:17 robs Exp $";$/;"	v	file:
+rcsid	examples/echo.c	/^static const char rcsid[] = "$Id: echo.c,v 1.5 1999\/07\/28 00:29:37 roberts Exp $";$/;"	v	file:
+rcsid	examples/log-dump.c	/^static const char rcsid[] = "$Id: log-dump.c,v 1.5 2001\/09\/01 01:12:26 robs Exp $";$/;"	v	file:
+rcsid	examples/threaded.c	/^static const char rcsid[] = "$Id: threaded.c,v 1.9 2001\/11\/20 03:23:21 robs Exp $";$/;"	v	file:
+rcsid	libfcgi/fcgi_stdio.c	/^static const char rcsid[] = "$Id: fcgi_stdio.c,v 1.14 2001\/09\/01 01:09:30 robs Exp $";$/;"	v	file:
+rcsid	libfcgi/fcgiapp.c	/^static const char rcsid[] = "$Id: fcgiapp.c,v 1.35 2003\/06\/22 00:16:43 robs Exp $";$/;"	v	file:
+rcsid	libfcgi/os_unix.c	/^static const char rcsid[] = "$Id: os_unix.c,v 1.38 2003\/06\/22 00:16:43 robs Exp $";$/;"	v	file:
+rcsid	libfcgi/os_win32.c	/^static const char rcsid[] = "$Id: os_win32.c,v 1.34 2003\/06\/22 00:16:43 robs Exp $";$/;"	v	file:
+rdNext	include/fcgiapp.h	/^    unsigned char *rdNext;    \/* reader: first valid byte$/;"	m	struct:FCGX_Stream
+rdNext	java/FCGIInputStream.java	/^    public int rdNext;$/;"	f	class:FCGIInputStream
+read	java/FCGIInputStream.java	/^    public int read() throws IOException {$/;"	m	class:FCGIInputStream
+read	java/FCGIInputStream.java	/^    public int read(byte b[]) throws IOException {$/;"	m	class:FCGIInputStream
+read	java/FCGIInputStream.java	/^    public int read(byte b[], int off, int len) throws IOException {$/;"	m	class:FCGIInputStream
+readFdSet	libfcgi/os_unix.c	/^static fd_set readFdSet;$/;"	v	file:
+readFdSetPost	libfcgi/os_unix.c	/^static fd_set readFdSetPost;$/;"	v	file:
+readParams	java/FCGIMessage.java	/^    public int readParams(Properties props) throws IOException{$/;"	m	class:FCGIMessage
+readingEndRequestBody	cgi-fcgi/cgi-fcgi.c	/^static int readingEndRequestBody = FALSE;$/;"	v	file:
+reqDataPtr	libfcgi/fcgiapp.c	/^    FCGX_Request *reqDataPtr; \/* request data not specific to one stream *\/$/;"	m	struct:FCGX_Stream_Data	file:
+request	java/FCGIInputStream.java	/^    public FCGIRequest request;$/;"	f	class:FCGIInputStream
+request	java/FCGIInterface.java	/^    public static FCGIRequest request = null;$/;"	f	class:FCGIInterface
+request	java/FCGIOutputStream.java	/^    public FCGIRequest request;$/;"	f	class:FCGIOutputStream
+requestID	java/FCGIRequest.java	/^    public int      requestID;$/;"	f	class:FCGIRequest
+requestId	cgi-fcgi/cgi-fcgi.c	/^static int requestId;      \/* RequestId of the current request.$/;"	v	file:
+requestId	include/fcgiapp.h	/^    int requestId;            \/* valid if isBeginProcessed *\/$/;"	m	struct:FCGX_Request
+requestIdB0	include/fastcgi.h	/^    unsigned char requestIdB0;$/;"	m	struct:__anon2
+requestIdB1	include/fastcgi.h	/^    unsigned char requestIdB1;$/;"	m	struct:__anon2
+reserved	include/fastcgi.h	/^    unsigned char reserved;$/;"	m	struct:__anon2
+reserved	include/fastcgi.h	/^    unsigned char reserved[3];$/;"	m	struct:__anon5
+reserved	include/fastcgi.h	/^    unsigned char reserved[5];$/;"	m	struct:__anon3
+reserved	include/fastcgi.h	/^    unsigned char reserved[7];$/;"	m	struct:__anon7
+reset	libfcgi/fcgio.cpp	/^void fcgi_streambuf::reset(void)$/;"	f	class:fcgi_streambuf
+rewind	include/fcgi_stdio.h	171;"	d
+rewind	include/fcgi_stdio.h	172;"	d
+role	include/fcgiapp.h	/^    int role;$/;"	m	struct:FCGX_Request
+role	java/FCGIRequest.java	/^    public int      role;$/;"	f	class:FCGIRequest
+roleB0	include/fastcgi.h	/^    unsigned char roleB0;$/;"	m	struct:__anon3
+roleB1	include/fastcgi.h	/^    unsigned char roleB1;$/;"	m	struct:__anon3
+setException	java/FCGIInputStream.java	/^    public void setException(Exception errexpt) {$/;"	m	class:FCGIInputStream
+setException	java/FCGIOutputStream.java	/^    public void setException(Exception errexpt) {$/;"	m	class:FCGIOutputStream
+setFCGIError	java/FCGIInputStream.java	/^    public void setFCGIError(int errnum) {$/;"	m	class:FCGIInputStream
+setFCGIError	java/FCGIOutputStream.java	/^    public void setFCGIError(int errnum) {$/;"	m	class:FCGIOutputStream
+setReaderType	java/FCGIInputStream.java	/^    public void setReaderType(int streamType) {$/;"	m	class:FCGIInputStream
+setbuf	include/fcgi_stdio.h	164;"	d
+setbuf	include/fcgi_stdio.h	165;"	d
+setbuf	libfcgi/fcgio.cpp	/^std::streambuf * fcgi_streambuf::setbuf(char_type * b, streamsize bs)$/;"	f	class:fcgi_streambuf
+setvbuf	include/fcgi_stdio.h	162;"	d
+setvbuf	include/fcgi_stdio.h	163;"	d
+shl_load	configure	/^shl_load ();$/;"	f
+shutdownNow	libfcgi/os_unix.c	/^static int shutdownNow = FALSE;$/;"	v	file:
+shutdownNow	libfcgi/os_win32.c	/^static BOOLEAN shutdownNow = FALSE;$/;"	v	file:
+shutdownPending	libfcgi/os_unix.c	/^static int shutdownPending = FALSE;$/;"	v	file:
+shutdownPending	libfcgi/os_win32.c	/^static BOOLEAN shutdownPending = FALSE;$/;"	v	file:
+skip	java/FCGIInputStream.java	/^    public boolean skip;$/;"	f	class:FCGIInputStream
+skip	java/FCGIInputStream.java	/^    public long skip(long n) throws IOException {$/;"	m	class:FCGIInputStream
+skip	libfcgi/fcgiapp.c	/^    int skip;                 \/* reader: don't deliver content bytes *\/$/;"	m	struct:FCGX_Stream_Data	file:
+sock	libfcgi/os_win32.c	/^    SOCKET sock;$/;"	m	union:__anon12	file:
+socket	configure	/^socket ();$/;"	f
+socket	java/FCGIRequest.java	/^    public Socket       socket;$/;"	f	class:FCGIRequest
+srvSocket	java/FCGIInterface.java	/^    public static ServerSocket srvSocket;$/;"	f	class:FCGIInterface
+ssize_t	include/fcgi_config_x86.h	39;"	d
+startupProps	java/FCGIInterface.java	/^    public static Properties startupProps;$/;"	f	class:FCGIInterface
+status	libfcgi/os_win32.c	/^    int status;$/;"	m	struct:FD_TABLE	file:
+stderr	include/fcgi_stdio.h	147;"	d
+stderr	include/fcgi_stdio.h	148;"	d
+stdin	include/fcgi_stdio.h	143;"	d
+stdin	include/fcgi_stdio.h	144;"	d
+stdinFds	cgi-fcgi/cgi-fcgi.c	/^static int stdinFds[3];$/;"	v	file:
+stdioHandles	libfcgi/os_win32.c	/^static HANDLE stdioHandles[3] = {INVALID_HANDLE_VALUE, INVALID_HANDLE_VALUE,$/;"	v	file:
+stdio_stream	include/fcgi_stdio.h	/^    FILE *stdio_stream;$/;"	m	struct:__anon9
+stdout	include/fcgi_stdio.h	145;"	d
+stdout	include/fcgi_stdio.h	146;"	d
+stop	cgi-fcgi/cgi-fcgi.c	/^    char *stop;$/;"	m	struct:__anon1	file:
+stop	include/fcgiapp.h	/^    unsigned char *stop;      \/* reader: last valid byte + 1$/;"	m	struct:FCGX_Stream
+stop	java/FCGIInputStream.java	/^    public int stop;$/;"	f	class:FCGIInputStream
+stop	java/FCGIOutputStream.java	/^    public int stop;$/;"	f	class:FCGIOutputStream
+stopUnget	include/fcgiapp.h	/^    unsigned char *stopUnget; \/* reader: first byte of current buffer$/;"	m	struct:FCGX_Stream
+str_dup	libfcgi/os_unix.c	/^static char * str_dup(const char * str)$/;"	f	file:
+successCount	examples/log-dump.c	/^static int successCount = 0;$/;"	v	file:
+sync	libfcgi/fcgio.cpp	/^int fcgi_streambuf::sync()$/;"	f	class:fcgi_streambuf
+the_request	libfcgi/fcgiapp.c	/^static FCGX_Request the_request;$/;"	v	file:
+tmpfile	include/fcgi_stdio.h	226;"	d
+tmpfile	include/fcgi_stdio.h	227;"	d
+type	include/fastcgi.h	/^    unsigned char type;    $/;"	m	struct:__anon7
+type	include/fastcgi.h	/^    unsigned char type;$/;"	m	struct:__anon2
+type	java/FCGIInputStream.java	/^    public int type;$/;"	f	class:FCGIInputStream
+type	java/FCGIOutputStream.java	/^    public int type;$/;"	f	class:FCGIOutputStream
+type	libfcgi/fcgiapp.c	/^    int type;                 \/* reader: FCGI_PARAMS or FCGI_STDIN$/;"	m	struct:FCGX_Stream_Data	file:
+type	libfcgi/os_win32.c	/^    FILE_TYPE type;$/;"	m	struct:FD_TABLE	file:
+uflow	libfcgi/fcgio.cpp	/^int fcgi_streambuf::uflow() $/;"	f	class:fcgi_streambuf
+underflow	libfcgi/fcgio.cpp	/^int fcgi_streambuf::underflow()$/;"	f	class:fcgi_streambuf
+ungetc	include/fcgi_stdio.h	184;"	d
+ungetc	include/fcgi_stdio.h	185;"	d
+unixVariant	libfcgi/os_unix.c	/^    struct  sockaddr_un	unixVariant;$/;"	m	union:SockAddrUnion	typeref:struct:SockAddrUnion::sockaddr_un	file:
+value	libfcgi/os_win32.c	/^    unsigned int value;$/;"	m	union:__anon12	file:
+vec	libfcgi/fcgiapp.c	/^    FCGX_ParamArray vec;    \/* vector of strings *\/$/;"	m	struct:Params	file:
+version	include/fastcgi.h	/^    unsigned char version;$/;"	m	struct:__anon2
+vfprintf	include/fcgi_stdio.h	209;"	d
+vfprintf	include/fcgi_stdio.h	210;"	d
+vprintf	include/fcgi_stdio.h	211;"	d
+vprintf	include/fcgi_stdio.h	212;"	d
+wasFCloseCalled	include/fcgiapp.h	/^    int wasFCloseCalled;$/;"	m	struct:FCGX_Stream
+webServerAddressList	libfcgi/fcgiapp.c	/^static char *webServerAddressList = NULL;$/;"	v	file:
+webServerReadHandlerEOF	cgi-fcgi/cgi-fcgi.c	/^static int webServerReadHandlerEOF;$/;"	v	file:
+wrNext	include/fcgiapp.h	/^    unsigned char *wrNext;    \/* writer: first free byte$/;"	m	struct:FCGX_Stream
+wrNext	java/FCGIOutputStream.java	/^    public int wrNext;$/;"	f	class:FCGIOutputStream
+write	java/FCGIOutputStream.java	/^    public  void write(byte b[]) throws IOException{$/;"	m	class:FCGIOutputStream
+write	java/FCGIOutputStream.java	/^    public void  write(int c) throws IOException {$/;"	m	class:FCGIOutputStream
+write	java/FCGIOutputStream.java	/^    public void write(byte b[], int off, int len) throws IOException {$/;"	m	class:FCGIOutputStream
+writeCloseRecords	java/FCGIOutputStream.java	/^    public void writeCloseRecords() throws IOException {$/;"	m	class:FCGIOutputStream
+writeFdSet	libfcgi/os_unix.c	/^static fd_set writeFdSet;$/;"	v	file:
+writeFdSetPost	libfcgi/os_unix.c	/^static fd_set writeFdSetPost;$/;"	v	file:
+write_it_all	libfcgi/fcgiapp.c	/^static int write_it_all(int fd, char *buf, int len)$/;"	f	file:
+wsReadPending	cgi-fcgi/cgi-fcgi.c	/^static int wsReadPending = 0;$/;"	v	file:
+xsgetn	libfcgi/fcgio.cpp	/^streamsize fcgi_streambuf::xsgetn(char_type * s, streamsize n) $/;"	f	class:fcgi_streambuf
+xsputn	libfcgi/fcgio.cpp	/^streamsize fcgi_streambuf::xsputn(const char_type * s, streamsize n) $/;"	f	class:fcgi_streambuf
+~fcgi_istream	include/fcgio.h	/^    ~fcgi_istream(void) {}$/;"	f	class:fcgi_istream
+~fcgi_ostream	include/fcgio.h	/^    ~fcgi_ostream(void) {}$/;"	f	class:fcgi_ostream
+~fcgi_streambuf	libfcgi/fcgio.cpp	/^fcgi_streambuf::~fcgi_streambuf(void)$/;"	f	class:fcgi_streambuf
